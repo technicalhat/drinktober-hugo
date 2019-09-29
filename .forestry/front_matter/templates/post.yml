@@ -35,6 +35,7 @@ fields:
     maxSize: 250
   label: Video
 pages:
+- content/posts/2018/day-31-drinkoween.md
 - content/posts/2018/day-30-blue-moon.md
 - content/posts/2018/day-29-turned-to-stone.md
 - content/posts/2018/day-28-ghost-ship.md
