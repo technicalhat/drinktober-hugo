@@ -34,3 +34,5 @@ fields:
   config:
     maxSize: 250
   label: Video
+pages:
+- content/posts/2018/ghost-dance.md
