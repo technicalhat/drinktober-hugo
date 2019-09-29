@@ -35,4 +35,5 @@ fields:
     maxSize: 250
   label: Video
 pages:
+- content/posts/2018/day-4-hoptical-illusion.md
 - content/posts/2018/ghost-dance.md
