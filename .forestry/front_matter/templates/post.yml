@@ -35,6 +35,7 @@ fields:
     maxSize: 250
   label: Video
 pages:
+- content/posts/2018/day-12-king-cobra.md
 - content/posts/2018/day-11-we-are-the-road-crew.md
 - content/posts/2018/day-10-dark-matters.md
 - content/posts/2018/day-9-oktoberfest.md
