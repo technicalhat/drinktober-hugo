@@ -1,0 +1,30 @@
+#https://duyizhuo.com/post/hugo-with-github-pages/
+version: 2
+jobs:
+  build:
+    docker:
+      - image: cibuilds/hugo:latest
+    working_directory: ~/hugo
+    environment:
+      HUGO_BUILD_DIR: public
+      TARGET_REPO: technicalhat/drinktober-web.git
+
+    steps:
+      - run: apk update && apk add git
+      - checkout
+      - run: git submodule sync && git submodule update --init
+      - run:
+                name: Get current site
+                working_directory: ~/hugo
+                command: git clone -b master https://${GITHUB_TOKEN}@github.com/technicalhat/drinktober-web.git public
+      - run: HUGO_ENV=production hugo -v -d $HUGO_BUILD_DIR
+      - deploy:
+          name: Deploy to Github Pages
+          working_directory: ~/hugo/public
+          command: |
+              git config credential.helper 'cache --timeout=120'
+              git config user.email "54236218+technicalhat@users.noreply.github.com"
+              git config user.name "CircleCI Build bot"
+              git add .
+              git commit --allow-empty -m "Trigger deployment"
+              git push -q https://${GITHUB_TOKEN}@github.com/technicalhat/drinktober-web.git master
