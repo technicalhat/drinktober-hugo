@@ -11,4 +11,4 @@ title = "Ghost Dance"
 video = ""
 
 +++
-It's the third of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG), following up last night's cowboy beer with this Ghost Dance Chinook Pale Ale, which is rather nice and hoppy
+It's the third of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG), following up last night's cowboy beer with this Ghost Dance Chinook Pale Ale, which is rather nice and hoppy :)
