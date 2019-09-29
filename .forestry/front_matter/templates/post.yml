@@ -35,6 +35,7 @@ fields:
     maxSize: 250
   label: Video
 pages:
+- content/posts/2018/day-19-kingfisher.md
 - content/posts/2018/day-18-arise-my-mighty-pink-army.md
 - content/posts/2018/day-17-bees.md
 - content/posts/2018/day-16-treacle-treat.md
