@@ -1,0 +1,31 @@
+---
+label: Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: datetime
+  name: publishdate
+  label: publishdate
+- type: text
+  name: beer_name
+  label: beer_name
+- type: text
+  name: abv
+  label: abv
+- type: text
+  name: brewer
+  label: brewer
+- type: file
+  name: beer_photo
+  label: beer_photo
+- type: file
+  name: antic_photo
+  label: antic_photo
+- type: file
+  name: thumbnail
+  label: thumbnail
