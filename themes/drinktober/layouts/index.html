@@ -1,0 +1,88 @@
+
+{{define "main"}}
+<div id="banner" class="box container">
+        <div class="row">
+            <div class="col-7 col-12-small">
+                <h2>Heidi is going sober for October</h2>
+                {{.Params.heidi_text | markdownify }}
+            </div>
+            <div class="col-5 col-12-small">
+                    <section>
+                        <a href="#" class="image featured"><img src="heidi.jpg" alt="" /></a>
+                    </section>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-5 col-12-small">
+                <section>
+                    <a href="#" class="image featured"><img src="jonathan.jpg" alt="" /></a>
+                </section>
+            </div>
+            <div class="col-7 col-12-small">
+                <h2>Her friend Jonathan... isn't</h2>
+                {{.Params.jonathan_text | markdownify }}
+            </div>
+        </div>
+    </div>
+			
+    <div id="main-wrapper">
+
+			<!-- Main -->
+            <div class="container">
+                <div class="row gtr-200">
+                    <div class="col-12 imp-medium">
+
+                        <!-- Content -->
+                            <div id="content">
+                                <section class="last">
+                                    {{.Content }} 
+                                    
+                                </section>
+                            </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="features-wrapper">
+        <div class="container">
+            <div class="row">
+                
+                {{range where (where .Site.RegularPages "Section" "posts") "Date.Year" "==" 2019 }}
+                
+                <div class="col-4 col-12-medium">
+
+                    <!-- Box -->
+                        <section class="box feature">
+                            <a href="{{.Permalink}}" class="image featured"><img src='{{ .Params.thumbnail | absURL }}' alt="" /></a>
+                            <div class="inner">
+                                    <a href="{{.Permalink}}"><header>
+                                    <h2>{{.Date.Format "January"}} {{.Date.Day}} {{.Date.Year}}</h2>
+                                    <p>{{ .Title }}</p>
+                                </header></a>
+                            </div>
+                        </section>
+
+                </div>
+                {{end}}
+
+            </div>
+        </div>
+       {{range where .Sections "Section" "==" "posts"}}
+            {{range .Sections}}
+            {{$year := path.Base .File.Dir}}
+                {{if ne (path.Base .File.Dir) "2019"}}
+
+                <div class="box container">
+                    <div class="row">
+                        <div class="col-12">
+                            <a href="{{.Permalink}}"><h1>{{.Title}}</h1></a>
+                        </div>
+                    </div>
+                </div>
+                {{end}}
+            {{end}}
+       {{end}}
+    </div>
+{{end}}

@@ -1,0 +1,53 @@
+{{define "main"}}
+<div id="main-wrapper">
+        <div class="container">
+            <div class="row gtr-200">
+                <div class="col-8 col-12-medium">
+                    <div id="content">
+
+                        <!-- Content -->
+                            <article>
+
+                                {{ .Content }}
+                                <a href="#" class="image"><img src="{{ .Params.antic_photo | absURL }}" /></a>
+                               
+                            </article>
+
+                    </div>
+                </div>
+                <div class="col-4 col-12-medium">
+                    <div id="sidebar">
+
+                        <!-- Sidebar -->
+                            <section class="box feature" id="beerinfo">
+                                <a href="{{.Permalink}}" class="image featured"><img src='{{ .Params.beer_photo | absURL }}' alt="" /></a>
+                                    <header>
+                                        <dl class="row">
+                                            <dt class="col-4">Date</dt>
+                                            <dd class="col-8">{{.Date.Format "January"}} {{.Date.Day}}</dd>
+                                            <dt class="col-4">Beer</dt>
+                                            <dd class="col-8">{{ .Params.beer_name}}</dd>
+                                            <dt class="col-4">ABV</dt>
+                                            <dd class="col-8">{{ .Params.abv}}</dd>
+                                            <dt class="col-4">Brewed by</dt>
+                                            <dd class="col-8">{{ .Params.brewer}}</dd>
+                                        </dl>
+                                   </header>
+                                
+                            </section>
+
+                            <section>
+                                <h3>More beer</h3>
+                                <ul class="style2">
+                                        {{ range first 5 (where .CurrentSection.Pages "Date" "<" .Date) }}
+                                    <li><a href="{{ .Permalink }}">{{.Date.Format "January"}} {{.Date.Day}} - {{ .Title }}</a></li>
+                                    {{end}}
+                                </ul>
+                            </section>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{{end}}

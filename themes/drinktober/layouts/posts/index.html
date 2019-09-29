@@ -1,0 +1,103 @@
+
+{{define "main"}}
+<div id="banner" class="box container">
+        <div class="row">
+            <div class="col-7 col-12-medium">
+                <h2>Heidi is going sober for October</h2>
+                {{.Params.heidi_text | markdownify }}
+            </div>
+            <div class="col-5 col-12-medium">
+                    <section>
+                        <a href="#" class="image featured"><img src="heidi.jpg" alt="" /></a>
+                    </section>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-5 col-12-medium">
+                <section>
+                    <a href="#" class="image featured"><img src="jonathan.jpg" alt="" /></a>
+                </section>
+            </div>
+            <div class="col-7 col-12-medium">
+                <h2>Her friend Jonathan... isn't</h2>
+                {{.Params.jonathan_text | markdownify }}
+            </div>
+        </div>
+    </div>
+			
+    <div id="main-wrapper">
+
+			<!-- Main -->
+            <div class="container">
+                <div class="row gtr-200">
+                    <div class="col-12 imp-medium">
+
+                        <!-- Content -->
+                            <div id="content">
+                                <section class="last">
+                                    {{.Content }} 
+                                    
+                                </section>
+                            </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="features-wrapper">
+        <div class="container">
+            {{ .Site.Sections }}
+            <div class="row">
+                
+                {{range .Site.Pages}}
+                section = {{.Section}}
+                <div class="col-4 col-12-medium">
+
+                    <!-- Box -->
+                        <section class="box feature">
+                            <a href="#" class="image featured"><img src="/uploads/thumbnail1.jpg" alt="" /></a>
+                            <div class="inner">
+                                <header>
+                                    <h2>October 1st</h2>
+                                    <p>Jesse James IPA</p>
+                                </header>
+                            </div>
+                        </section>
+
+                </div>
+                {{end}}
+                <div class="col-4 col-12-medium">
+
+                    <!-- Box -->
+                        <section class="box feature">
+                            <a href="#" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
+                            <div class="inner">
+                                <header>
+                                    <h2>An interesting title</h2>
+                                    <p>This is also an interesting subtitle</p>
+                                </header>
+                                <p>Phasellus quam turpis, feugiat sit amet in, hendrerit in lectus. Praesent sed semper amet bibendum tristique fringilla.</p>
+                            </div>
+                        </section>
+
+                </div>
+                <div class="col-4 col-12-medium">
+
+                    <!-- Box -->
+                        <section class="box feature">
+                            <a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
+                            <div class="inner">
+                                <header>
+                                    <h2>Oh, and finally ...</h2>
+                                    <p>Here's another intriguing subtitle</p>
+                                </header>
+                                <p>Phasellus quam turpis, feugiat sit amet in, hendrerit in lectus. Praesent sed semper amet bibendum tristique fringilla.</p>
+                            </div>
+                        </section>
+
+                </div>
+            </div>
+        </div>
+    </div>
+{{end}}

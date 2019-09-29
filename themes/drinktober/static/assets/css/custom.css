@@ -1,0 +1,15 @@
+dl.row {
+    margin:0px;
+}
+dl.row > * {
+    padding: 0px;
+    border-bottom: 1px solid;
+}
+.text-center{
+    text-align: center;
+}
+#beerinfo .image.featured img{
+    height:300px;
+    width:auto;
+    margin: 0 auto;
+}

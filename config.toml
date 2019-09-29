@@ -1,0 +1,6 @@
+baseURL = "https://technicalhat.github.io/drinktober-web/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "drinktober"
+RelativeURLs=true
+CanonifyURLs=true

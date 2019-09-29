@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<!--
+	Verti by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+    {{- partial "head.html" . -}}
+	<body class="is-preload homepage">
+            <div id="page-wrapper">
+    
+        {{- partial "header.html" . -}}
+        
+        
+        {{- block "main" . }}{{- end }}
+        
+        <div id="footer-wrapper">
+        {{- partial "footer.html" . -}}
+        </div>
+    </body>
+    <!-- Scripts -->
+    <script src='{{"assets/js/jquery.min.js"  | absURL}}'></script>
+    <script src='{{"assets/js/jquery.dropotron.min.js"  | absURL}}'></script>
+    <script src='{{"assets/js/browser.min.js"  | absURL}}'></script>
+    <script src='{{"assets/js/breakpoints.min.js"  | absURL}}'></script>
+    <script src='{{"assets/js/util.js"  | absURL}}'></script>
+    <script src='{{"assets/js/main.js"  | absURL}}'></script>
+</html>
