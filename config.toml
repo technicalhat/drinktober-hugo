@@ -1,6 +1,8 @@
 baseURL = "https://technicalhat.github.io/drinktober-web/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Drinktober 2019"
 theme = "drinktober"
 RelativeURLs=true
 CanonifyURLs=true
+[params]
+    keywords = "meta keyword test"
