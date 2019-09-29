@@ -35,6 +35,7 @@ fields:
     maxSize: 250
   label: Video
 pages:
+- content/posts/2018/day-28-ghost-ship.md
 - content/posts/2018/day-27-pumpking.md
 - content/posts/2018/day-26-season-of-the-witch.md
 - content/posts/2018/day-25-skål.md
