@@ -8,7 +8,6 @@ brewer: Aldi
 beer_photo: uploads/beer2.jpg
 antic_photo: uploads/antic2.jpg
 thumbnail: uploads/thumbnail2.jpg
-draft: true
 
 ---
 ## Howdy there, pardners!
