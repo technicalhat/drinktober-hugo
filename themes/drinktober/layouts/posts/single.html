@@ -11,6 +11,12 @@
                                 {{ .Content }}
                                 <a href="#" class="image"><img src="{{ .Params.antic_photo | absURL }}" /></a>
                                
+                                {{if .Params.video}}
+
+                                <video controls>
+                                    <source src="{{ .Params.video | absURL }}" >
+                                </video>
+                                {{end}}
                             </article>
 
                     </div>
