@@ -11,3 +11,6 @@ title = "Day 23 - Urban Fox"
 video = ""
 
 +++
+Slept like crap yesterday and I'm absolutely shattered tonight, so no chance of any comical costume shenanigans:(
+
+But it'll take more than that to stop me celebrating the 23rd of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG) with this Urban Fox red ale :)
