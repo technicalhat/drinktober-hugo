@@ -35,6 +35,7 @@ fields:
     maxSize: 250
   label: Video
 pages:
+- content/posts/2018/day-17-bees.md
 - content/posts/2018/day-16-treacle-treat.md
 - content/posts/2018/day-14-dunkel-fester.md
 - content/posts/2018/day-15-felinfoel-esb.md
