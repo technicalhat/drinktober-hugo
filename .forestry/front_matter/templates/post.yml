@@ -29,3 +29,8 @@ fields:
 - type: file
   name: thumbnail
   label: thumbnail
+- name: video
+  type: file
+  config:
+    maxSize: 250
+  label: Video
