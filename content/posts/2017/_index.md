@@ -1,7 +1,6 @@
 ---
-title: "Drinktober 2017"
+title: Drinktober 2017
 date: 2017-10-01
-draft: true
----
 
-Where it all began.
+---
+Where it all began. Slightly different from later installments, for the first Drinktober I was drinking all kinds of stuff, not just beer.
