@@ -11,4 +11,4 @@ title = "Day 21 - Rheinbacher"
 video = ""
 
 +++
-Getting a bit more mileage out of my awesome new beer stein for the 21st of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG) with a Rheinbacher Weissbier and a German shirt I borrowed from Vikki
+Getting a bit more mileage out of my awesome new beer stein for the 21st of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG) with a Rheinbacher Weissbier and a German shirt I borrowed from Vikki 
