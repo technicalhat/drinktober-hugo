@@ -35,6 +35,7 @@ fields:
     maxSize: 250
   label: Video
 pages:
+- content/posts/2017/day-20-roadcrew.md
 - content/posts/2017/day-19-frankenstein-creation.md
 - content/posts/2017/day-18-no-sleep.md
 - content/posts/2017/day-17-cactus-jack.md
