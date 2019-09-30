@@ -35,6 +35,7 @@ fields:
     maxSize: 250
   label: Video
 pages:
+- content/posts/2017/day-10-tequila-time.md
 - content/posts/2017/day-9-bubbles.md
 - content/posts/2017/day-8-sunshine.md
 - content/posts/2017/day-7-this-one-s-for-lemmy.md
