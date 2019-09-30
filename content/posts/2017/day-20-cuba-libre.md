@@ -7,7 +7,7 @@ brewer = ""
 date = "2017-10-30T00:00:00+00:00"
 publishdate = "2017-10-30T00:00:00+00:00"
 thumbnail = "uploads/30-cuba-libre-thumbnail.jpg"
-title = "Day 20 - Cuba libre"
+title = "Day 30 - Cuba libre"
 video = ""
 
 +++
