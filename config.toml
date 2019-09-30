@@ -1,8 +1,8 @@
-baseURL = "https://technicalhat.github.io/drinktober-web/"
+baseURL = "https://drinktober.co.uk/"
 languageCode = "en-us"
 title = "Drinktober 2019"
 theme = "drinktober"
 RelativeURLs=true
 CanonifyURLs=true
 [params]
-    keywords = "meta keyword test"
+    keywords = "drinktober, charity, sober october, alcohol,Heidi is going sober for October, Jonathan isn't, challenge, raising money, drink beer every day, soberhero, not so sober hero, being a jerk, cancer support, october, beer, drink all the beer, Macmillan Cancer Support"
