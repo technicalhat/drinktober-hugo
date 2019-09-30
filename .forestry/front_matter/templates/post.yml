@@ -35,6 +35,7 @@ fields:
     maxSize: 250
   label: Video
 pages:
+- content/posts/2017/day-4-old-rosie.md
 - content/posts/2017/day-3-scurvy.md
 - content/posts/2017/day-2-gin-o-clock.md
 - content/posts/2017/day-1-it-begins.md
