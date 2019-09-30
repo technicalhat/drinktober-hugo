@@ -35,6 +35,7 @@ fields:
     maxSize: 250
   label: Video
 pages:
+- content/posts/2017/day-28-tell-em-about-the-honey-mummy.md
 - content/posts/2017/26-pimms.md
 - content/posts/2017/day-25-this-wasn-t-my-best-idea.md
 - content/posts/2017/day-23-ouzo-margarita.md
