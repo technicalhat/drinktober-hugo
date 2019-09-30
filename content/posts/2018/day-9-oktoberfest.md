@@ -6,7 +6,7 @@ beer_photo = "uploads/9-paulaner-beer.jpg"
 brewer = "Paulaner"
 date = "2018-10-08T23:00:00+00:00"
 publishdate = "2018-10-08T23:00:00+00:00"
-thumbnail = "uploads/8-beardo-thumbnail-1.jpg"
+thumbnail = "uploads/9-paulaner-thumbnail.jpg"
 title = "Day 9 - Oktoberfest"
 video = ""
 
