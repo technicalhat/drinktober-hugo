@@ -2,7 +2,7 @@
 abv = ""
 antic_photo = "uploads/2-gin-tonic-antic.jpg"
 beer_name = "Gin & tonic"
-beer_photo = "uploads/2-gin-tonic-drink-1.jpg"
+beer_photo = "uploads/2-gin-tonic-drink-2.jpg"
 brewer = ""
 date = "2017-10-01T23:00:00+00:00"
 publishdate = "2017-10-01T23:00:00+00:00"
