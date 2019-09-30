@@ -7,7 +7,7 @@ brewer = ""
 date = "2017-10-25T23:00:00+00:00"
 publishdate = "2017-10-25T23:00:00+00:00"
 thumbnail = "uploads/26-pimms-thumbnail.jpg"
-title = "26 - Pimms"
+title = "Day 26 - Pimms"
 video = ""
 
 +++
