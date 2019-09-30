@@ -35,6 +35,7 @@ fields:
     maxSize: 250
   label: Video
 pages:
+- content/posts/2017/day-13-heineken.md
 - content/posts/2017/day-12-more-gin.md
 - content/posts/2017/day-11-onwards-to-valhalla.md
 - content/posts/2017/day-10-tequila-time.md
