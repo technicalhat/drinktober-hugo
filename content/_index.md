@@ -2,7 +2,7 @@
 title: Drinktober 2019
 date: 2019-09-28T12:07:00.000+00:00
 heidi_text: 'This is Heidi. Heidi is a nice person who''s going sober for the month
-  of October to raise money for charity. [Link to sponsorship page](https://www.gosober.org.uk/users/heidi-victoria-ireland)
+  of October to raise money for charity. [You can sponsor her here](https://www.gosober.org.uk/users/heidi-victoria-ireland)
 
 '
 jonathan_text: 'Jonathan here, on the other hand, is a bit of a dick. So by way of
