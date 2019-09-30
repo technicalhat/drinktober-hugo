@@ -35,6 +35,7 @@ fields:
     maxSize: 250
   label: Video
 pages:
+- content/posts/2017/day-21-tvr.md
 - content/posts/2017/day-24-getting-caught-in-the-rain.md
 - content/posts/2017/day-20-roadcrew.md
 - content/posts/2017/day-19-frankenstein-creation.md
