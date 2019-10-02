@@ -35,6 +35,7 @@ fields:
     maxSize: 250
   label: Video
 pages:
+- content/posts/2019/day-2-5-miles-off-the-ground.md
 - content/posts/2019/day-1-dirt-cheap.md
 - content/posts/2019/day-1-5-meanwhile-on-planet-heidi.md
 - content/posts/2018/day-21-rheinbacher.md
