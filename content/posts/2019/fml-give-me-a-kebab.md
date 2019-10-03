@@ -5,7 +5,6 @@ beer_name = "Quorn (again) and Ribena "
 beer_photo = ""
 brewer = ""
 date = "2019-10-03T00:00:00+00:00"
-draft = true
 publishdate = ""
 thumbnail = ""
 title = "FML give me a kebab"
