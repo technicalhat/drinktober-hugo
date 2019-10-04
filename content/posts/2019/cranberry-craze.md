@@ -5,7 +5,6 @@ beer_name = "Cranberry lyf"
 beer_photo = "uploads/C744B7E6-CEDD-4A5B-8BE0-E83B54AF8864.jpeg"
 brewer = ""
 date = "2019-10-04T00:00:00+00:00"
-draft = true
 publishdate = ""
 thumbnail = ""
 title = "Get your Friday Heidi on "
