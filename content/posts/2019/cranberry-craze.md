@@ -8,7 +8,7 @@ date = "2019-10-04T00:00:00+00:00"
 draft = true
 publishdate = ""
 thumbnail = ""
-title = "Cranberry craze"
+title = "Get your Friday Heidi on "
 video = ""
 
 +++
