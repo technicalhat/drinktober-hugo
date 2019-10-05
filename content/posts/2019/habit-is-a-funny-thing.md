@@ -5,7 +5,6 @@ beer_name = "Watered down cranberry"
 beer_photo = "uploads/CA58D336-06B9-4D5E-9D6E-F9BEEBBF0EAC.MOV"
 brewer = "Spar"
 date = "2019-10-05T00:00:00+00:00"
-draft = true
 publishdate = ""
 thumbnail = ""
 title = "Habit is a funny thing "
