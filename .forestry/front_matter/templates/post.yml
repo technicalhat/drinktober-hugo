@@ -35,6 +35,7 @@ fields:
     maxSize: 250
   label: Video
 pages:
+- content/posts/2019/habit-is-a-funny-thing.md
 - content/posts/2019/day-5-du-hast-bier.md
 - content/posts/2019/cranberry-craze.md
 - content/posts/2019/day-4-friday-night-fever.md
