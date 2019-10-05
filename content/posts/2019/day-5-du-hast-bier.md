@@ -2,7 +2,7 @@
 abv = "4.9%"
 antic_photo = "uploads/5-Rammsteiner-antic.jpg"
 beer_name = "Rammsteiner"
-beer_photo = "uploads/5-Rammsteiner-beer.jpg"
+beer_photo = "uploads/5-Rammsteiner-beer-1.jpg"
 brewer = "Rammstein"
 date = "2019-10-05T00:00:00+00:00"
 publishdate = "2019-10-05T00:00:00+00:00"
