@@ -5,7 +5,6 @@ beer_name = "Erm....water"
 beer_photo = "uploads/52606E9A-F164-434C-A3AC-4204971D9D75.jpeg"
 brewer = "The tap."
 date = "2019-10-06T00:00:00+00:00"
-draft = true
 publishdate = ""
 thumbnail = ""
 title = "Vegetarianism is just a big Miss-Steak"
