@@ -8,7 +8,7 @@ date = "2019-10-06T00:00:00+00:00"
 draft = true
 publishdate = ""
 thumbnail = ""
-title = "Is vegetarian a big miss-steak? "
+title = "Vegetarianism is just a big Miss-Steak"
 video = ""
 
 +++
