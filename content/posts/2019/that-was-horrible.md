@@ -5,7 +5,6 @@ beer_name = "Koperberg"
 beer_photo = "uploads/0B1DA0D7-2D2C-4F61-8424-2F7F8AE0A2D9.jpeg"
 brewer = ""
 date = "2019-10-08T00:00:00+00:00"
-draft = true
 publishdate = ""
 thumbnail = ""
 title = "Foam shrimp and tramps shoes. "
