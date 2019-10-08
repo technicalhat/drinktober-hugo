@@ -35,6 +35,7 @@ fields:
     maxSize: 250
   label: Video
 pages:
+- content/posts/2019/day-8-curious.md
 - content/posts/2019/day-7-hat.md
 - content/posts/2019/is-vegetarian-a-big-miss-steak.md
 - content/posts/2019/day-6-honk.md
