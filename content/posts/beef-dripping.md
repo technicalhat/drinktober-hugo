@@ -5,7 +5,6 @@ beer_name = "Water "
 beer_photo = ""
 brewer = "I am so very tired "
 date = "2019-10-09T00:00:00+00:00"
-draft = true
 publishdate = ""
 thumbnail = ""
 title = "Beef dripping "
