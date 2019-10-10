@@ -35,6 +35,7 @@ fields:
     maxSize: 250
   label: Video
 pages:
+- content/posts/2019/day-10-is-this-about-fancying-the-scarlet-witch.md
 - content/posts/beef-dripping.md
 - content/posts/2019/sharks.md
 - content/posts/2019/that-was-horrible.md
