@@ -5,7 +5,6 @@ beer_name = "Pls kill me."
 beer_photo = ""
 brewer = ""
 date = "2019-10-10T00:00:00+00:00"
-draft = true
 publishdate = ""
 thumbnail = ""
 title = "Absolute vegan bullshit"
