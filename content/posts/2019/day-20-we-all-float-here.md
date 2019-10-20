@@ -11,6 +11,6 @@ title = "Day 20 - We all float here"
 video = ""
 
 +++
-The strangest thing happened for the 20th post of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG).
+The strangest thing happened for the 20th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG).
 
 Just a couple of sips of my beer and I found myself free from the shackles of gravity and beginning to _Levitate_!
