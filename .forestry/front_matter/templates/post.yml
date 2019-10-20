@@ -35,6 +35,7 @@ fields:
     maxSize: 250
   label: Video
 pages:
+- content/posts/2019/day-20-we-all-float-here.md
 - content/posts/2019/day-19-for-those-about-to-bock.md
 - content/posts/2019/day-18-keep-taking-the-pils.md
 - content/posts/2019/day-17-don-cha-think.md
