@@ -35,7 +35,6 @@ fields:
     maxSize: 250
   label: Video
 pages:
-- content/posts/2019/she-s-back.md
 - content/posts/2018/ghost-dance.md
 - content/posts/2018/day-5-modelo-and-a-burrito.md
 - content/posts/2018/day-6-a-thirst-for-justice.md
@@ -93,7 +92,6 @@ pages:
 - content/posts/2018/day-9-oktoberfest.md
 - content/posts/2017/day-28-tell-em-about-the-honey-mummy.md
 - content/posts/2017/day-20-roadcrew.md
-- content/posts/2019/day-27-you-remind-me-of-the-babe.md
 - content/posts/2018/day-21-rheinbacher.md
 - content/posts/2019/day-1-5-meanwhile-on-planet-heidi.md
 - content/posts/2019/day-1-dirt-cheap.md
@@ -120,7 +118,6 @@ pages:
 - content/posts/2019/j2hooooooooe.md
 - content/posts/2019/day-13-we-ll-get-there-fast-and-then-we-ll-take-it-slow.md
 - content/posts/2019/day-12-park-in-it-viking.md
-- content/posts/2019/day-28-they-ll-get-yours-in-the-end.md
 - content/posts/2019/day-14-never-a-frown.md
 - content/posts/2019/is-vegetarian-a-big-miss-steak.md
 - content/posts/2019/day-6-honk.md
@@ -128,6 +125,9 @@ pages:
 - content/posts/2019/day-23-night-of-the-comet.md
 - content/posts/2019/day-22-high-voltage.md
 - content/posts/2019/day-24-as-long-as-you-cleanup-after.md
-- content/posts/2019/day-8-curious.md
-- content/posts/2019/day-25-pew-pew.md
+- content/posts/2019/she-s-back.md
 - content/posts/2019/day-26-sky-is-turning-red.md
+- content/posts/2019/day-27-you-remind-me-of-the-babe.md
+- content/posts/2019/day-28-they-ll-get-yours-in-the-end.md
+- content/posts/2019/day-25-pew-pew.md
+- content/posts/2019/day-8-curious.md
