@@ -1,13 +1,12 @@
 +++
 abv = "4.5%"
-antic_photo = ""
+antic_photo = "uploads/29-Graveyard-Shift-antic.jpg"
 beer_name = "Graveyard Shift"
 beer_photo = "uploads/29-Graveyard-Shift-beer.jpg"
 brewer = "Docks Beers"
 date = "2019-10-29T01:00:00+00:00"
-draft = true
 publishdate = "2019-10-29T01:00:00+00:00"
-thumbnail = ""
+thumbnail = "uploads/29-Graveyard-Shift-thumbnail.jpg"
 title = "Day 29 - When there's no more room in hell"
 video = ""
 
