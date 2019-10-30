@@ -1,13 +1,12 @@
 +++
 abv = "12.8%"
-antic_photo = ""
+antic_photo = "uploads/30-Stay-Puft-antic.jpg"
 beer_name = "Amplified Imperial Stay Puft"
 beer_photo = "uploads/30-Stay-Puft-beer.jpg"
 brewer = "Tiny Rebel"
 date = "2019-10-30T01:00:00+00:00"
-draft = true
 publishdate = "2019-10-30T01:00:00+00:00"
-thumbnail = ""
+thumbnail = "uploads/30-Stay-Puft-thumbnail.jpg"
 title = "Day 30 - Bustin' makes me feel good"
 video = ""
 
