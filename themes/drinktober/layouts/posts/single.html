@@ -1,52 +1,84 @@
 {{define "main"}}
 <div id="main-wrapper">
-        <div class="container">
-            <div class="row gtr-200">
-                <div class="col-8 col-12-medium">
-                    <div id="content">
+    <div class="container">
+        <div class="row gtr-200">
+            <div class="col-8 col-12-medium">
+                <div id="content">
 
-                        <!-- Content -->
-                            <article>
+                    <!-- Content -->
+                    <article>
 
-                                {{ .Content }}
-                                <a href="#" class="image"><img src="{{ .Params.antic_photo | absURL }}" /></a>
-                               
-                                {{if .Params.video}}
+                        {{ .Content }}
+                        <a href="#" class="image"><img src="{{ .Params.antic_photo | absURL }}" /></a>
 
-                                <video controls>
-                                    <source src="{{ .Params.video | absURL }}" >
-                                </video>
-                                {{end}}
-                            </article>
+                        {{if .Params.video}}
 
-                    </div>
+                        <video controls>
+                            <source src="{{ .Params.video | absURL }}">
+                        </video>
+                        {{end}}
+                    </article>
+
                 </div>
-                <div class="col-4 col-12-medium">
-                    <div id="sidebar">
+            </div>
+            <div class="col-4 col-12-medium">
+                <div id="sidebar">
 
-                        <!-- Sidebar -->
-                            <section class="box feature" id="beerinfo">
-                                <a href="{{.Permalink}}" class="image featured"><img src='{{ .Params.beer_photo | absURL }}' alt="" /></a>
-                                    <header>
-                                        <dl class="row">
-                                            <dt class="col-4">Date</dt>
-                                            <dd class="col-8">{{.Date.Format "January"}} {{.Date.Day}}</dd>
-                                            <dt class="col-4">Beer</dt>
-                                            <dd class="col-8">{{ .Params.beer_name}}</dd>
-                                            <dt class="col-4">ABV</dt>
-                                            <dd class="col-8">{{ .Params.abv}}</dd>
-                                            <dt class="col-4">Brewed by</dt>
-                                            <dd class="col-8">{{ .Params.brewer}}</dd>
-                                        </dl>
-                                   </header>
-                                
-                            </section>
+                    <!-- Sidebar -->
+                    <section class="box feature" id="beerinfo">
+                        <a href="{{.Permalink}}" class="image featured"><img src='{{ .Params.beer_photo | absURL }}' alt=""
+                            /></a>
+                        <header>
+                            <dl class="row">
+                                <dt class="col-4">Date</dt>
+                                <dd class="col-8">{{.Date.Format "January"}} {{.Date.Day}}</dd>
+                                <dt class="col-4">Beer</dt>
+                                <dd class="col-8">{{ .Params.beer_name}}</dd>
+                                <dt class="col-4">ABV</dt>
+                                <dd class="col-8">{{ .Params.abv}}</dd>
+                                <dt class="col-4">Brewed by</dt>
+                                <dd class="col-8">{{ .Params.brewer}}</dd>
+                            </dl>
+                        </header>
 
-                            <section>
-                                <h3>More beer</h3>
-                                <ul class="style2">
-                                        {{ range first 5 (where .CurrentSection.Pages "Date" "<" .Date) }}
-                                    <li><a href="{{ .Permalink }}">{{.Date.Format "January"}} {{.Date.Day}} - {{ .Title }}</a></li>
+                    </section>
+                    <section class="donate-profile">
+                        <h1 class="profile-name ">
+                                <a href="https://www.gosober.org.uk/users/heidi-victoria-ireland">Donate to Heidi's Fundraiser!</a>
+                             </h1>
+                        <div class="profile-avatar">
+                                <a href="https://www.gosober.org.uk/users/heidi-victoria-ireland">
+                            <img class="avatar"
+                                src='{{ "heidi-face.jpg" | absURL }}'
+                                alt="Thumb cee78103 3cd7 461e 9059 359e40face4e">
+                                </a>
+                        </div>
+                        {{ $total := .Site.Params.totalraised}}
+                        {{ $pct := div (mul $total 100.0) 200 }}
+                        <h1 class="total">
+                            £{{$total}} raised of £200 ({{$pct}}%)
+                        </h1>
+                        <h3 class="raising-for">for <a class="heading-link" href="https://www.gosober.org.uk/beneficiaries/macmillan">Macmillan Cancer
+                                Support</a></h3>
+                        <div class="profile-target">
+
+                            <div class="progress">
+                                <div class="progress-bar" style="width: {{$pct}}%;">
+                                    <div class="sr-only">{{$pct}}%</div>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <a class="btn btn-primary btn-lg btn-block" href="https://www.gosober.org.uk/users/heidi-victoria-ireland">Donate
+                            to Heidi-Victoria </a>
+
+                    </section>
+                    <section>
+                        <h3>More beer</h3>
+                        <ul class="style2">
+                            {{ range first 5 (where .CurrentSection.Pages "Date" "< " .Date) }}
+                                    <li><a href="{{ .Permalink }} ">{{.Date.Format "January "}} {{.Date.Day}} - {{ .Title }}</a></li>
                                     {{end}}
                                 </ul>
                             </section>
