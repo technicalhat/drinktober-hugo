@@ -2,10 +2,9 @@
 abv = ""
 antic_photo = ""
 beer_name = "Prosecco"
-beer_photo = ""
+beer_photo = "uploads/image.jpg"
 brewer = ""
 date = 2019-11-01T01:00:00Z
-draft = true
 publishdate = ""
 thumbnail = ""
 title = "It’s only chuffing DONE! "
