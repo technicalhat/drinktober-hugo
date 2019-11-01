@@ -35,6 +35,7 @@ fields:
     maxSize: 250
   label: Video
 pages:
+- content/posts/2019/it-s-only-chuffing-done.md
 - content/posts/2019/day-31-drinkoween.md
 - content/posts/2019/day-30-bustin-makes-me-feel-good.md
 - content/posts/day-31-drinkoween.md
