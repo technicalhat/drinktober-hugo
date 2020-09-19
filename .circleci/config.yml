@@ -10,7 +10,7 @@ jobs:
       TARGET_REPO: technicalhat/drinktober-web.git
 
     steps:
-      - run: apk update && apk add git
+      - run: apt-get update && apt-get install git
       - checkout
       - run: git submodule sync && git submodule update --init
       - run:
