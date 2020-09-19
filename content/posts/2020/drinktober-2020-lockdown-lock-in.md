@@ -5,7 +5,6 @@ beer_name = ""
 beer_photo = "uploads/intro.jpg"
 brewer = ""
 date = 2020-09-19T13:00:00Z
-draft = true
 publishdate = 2020-09-19T13:00:00Z
 thumbnail = "uploads/intro-drink.jpg"
 title = "Drinktober 2020 - Lockdown lock-in!"
