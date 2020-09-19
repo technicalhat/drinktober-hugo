@@ -1,12 +1,24 @@
 
 <!-- Footer -->
 <footer id="footer" class="container">
+    
     <div class="row">
+        {{ if .Site.Params.donationsActive }}
         <div class="col-12 text-center">
-            <a title="Sign up here to support Heidi!"  rel="nofollow" href="https://www.gosober.org.uk/users/heidi-victoria-ireland">
+            <a title="Sign up here to support Heidi!"  rel="nofollow" 
+            onclick="captureOutboundLink('{{.Site.Params.donateLink}}')";
+            target="_blank"
+            href="{{.Site.Params.donateLink}}">
                 <img alt="MacMillan Gosober banner" src='{{ "banner.jpg" | absURL}}'/>
             </a>
         </div>
+        {{else}}        
+        <div class="col-12 text-center">
+            <a title="Sign up here to support Heidi!"  rel="nofollow" href="https://www.gosober.org.uk/">
+                <img alt="MacMillan Gosober banner" src='{{ "banner.jpg" | absURL}}'/>
+            </a>
+        </div>
+        {{end}}
         <!--
         <div class="col-3 col-6-medium col-12-small">
 
@@ -72,7 +84,7 @@
         <div class="col-12">
             <div id="copyright">
                 <ul class="menu">
-                    <li>&copy; 2019 Drinktober. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+                    <li>&copy; {{ now.Format "2006" }} Drinktober. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
                 </ul>
             </div>
         </div>

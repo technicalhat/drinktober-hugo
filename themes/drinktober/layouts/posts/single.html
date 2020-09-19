@@ -44,22 +44,33 @@
                     </section>
                     <section class="donate-profile">
                         <h1 class="profile-name ">
-                                <a href="https://www.gosober.org.uk/users/heidi-victoria-ireland">Donate to Heidi's Fundraiser!</a>
+                            {{ if .Site.Params.donationsActive }}
+                            <a href="{{.Site.Params.donateLink}}"
+                            onclick="captureOutboundLink('{{.Site.Params.donateLink}}')";
+                            target="_blank">
+                                {{end}}
+                                    Donate to Heidi's Fundraiser!
+                            {{ if .Site.Params.donationsActive }}</a>{{end}}
                              </h1>
                         <div class="profile-avatar">
-                                <a href="https://www.gosober.org.uk/users/heidi-victoria-ireland">
+                            {{ if .Site.Params.donationsActive }}
+                            <a href="{{.Site.Params.donateLink}}"
+                            onclick="captureOutboundLink('{{.Site.Params.donateLink}}')";
+                            target="_blank">
+                                {{end}}
                             <img class="avatar"
                                 src='{{ "heidi-face.jpg" | absURL }}'
                                 alt="Thumb cee78103 3cd7 461e 9059 359e40face4e">
-                                </a>
+                                {{ if .Site.Params.donationsActive }} </a>{{end}}
                         </div>
                         {{ $total := .Site.Params.totalraised}}
                         {{ $pct := div (mul $total 100.0) 200 }}
                         <h1 class="total">
                             £{{$total}} raised of £200 ({{$pct}}%)
                         </h1>
-                        <h3 class="raising-for">for <a class="heading-link" href="https://www.gosober.org.uk/beneficiaries/macmillan">Macmillan Cancer
-                                Support</a></h3>
+                        <h3 class="raising-for">for <a class="heading-link" 
+                            href="https://www.gosober.org.uk/beneficiaries/macmillan">
+                            Macmillan Cancer Support</a></h3>
                         <div class="profile-target">
 
                             <div class="progress">
@@ -69,19 +80,25 @@
                             </div>
 
                         </div>
-
-                        <a class="btn btn-primary btn-lg btn-block" href="https://www.gosober.org.uk/users/heidi-victoria-ireland">Donate
-                            to Heidi-Victoria </a>
-
+                        {{ if .Site.Params.donationsActive }}
+                        <a class="btn btn-primary btn-lg btn-block" 
+                        href="{{.Site.Params.donateLink}}">
+                        Donate to Heidi-Victoria </a>
+                            {{else}}
+                            <a class="btn btn-disabled btn-lg btn-block" onclick="return false;" 
+                            aria-disabled="true" href="#">
+                            Coming soon 
+                            </a> 
+                        {{ end }}
                     </section>
                     <section>
                         <h3>More beer</h3>
                         <ul class="style2">
                             {{ range first 5 (where .CurrentSection.Pages "Date" "< " .Date) }}
-                                    <li><a href="{{ .Permalink }} ">{{.Date.Format "January "}} {{.Date.Day}} - {{ .Title }}</a></li>
-                                    {{end}}
-                                </ul>
-                            </section>
+                            <li><a href="{{ .Permalink }} ">{{.Date.Format "January "}} {{.Date.Day}} - {{ .Title }}</a></li>
+                            {{end}}
+                        </ul>
+                    </section>
 
                     </div>
                 </div>

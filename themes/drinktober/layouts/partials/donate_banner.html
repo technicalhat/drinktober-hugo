@@ -1,0 +1,32 @@
+<!-- Donate now! banner -->
+
+{{ if .Site.Params.donationsActive  }}
+<section id="progress-banner" class="box container">
+    {{ $total := .Site.Params.totalraised}}
+    {{ $pct := div (mul $total 100.0) 200 }}
+    <div class="row">
+        <div class="col-12">
+            <h1 class="total">
+            £{{$total}} raised of £200 ({{$pct}}%)
+            </h1>
+            <div class="progress">
+                <div class="progress-bar" style="width: {{cond (le $pct 100.0) $pct 100}}%;">
+                    <div class="sr-only">{{$pct}}%</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row mt-1">
+        
+        <div class="col-12">
+            
+            <a class="btn btn-primary btn-lg btn-block" 
+            onclick="captureOutboundLink('{{.Site.Params.donateLink}}')";
+            target="_blank"
+            href="{{.Site.Params.donateLink}}">
+                Donate now! 
+            </a>
+        </div>
+    </div>
+</section>
+{{end}}
