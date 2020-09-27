@@ -64,9 +64,10 @@
                                 {{ if .Site.Params.donationsActive }} </a>{{end}}
                         </div>
                         {{ $total := .Site.Params.totalraised}}
-                        {{ $pct := div (mul $total 100.0) 200 }}
+                        {{ $target := .Site.Params.targettotal }}
+                        {{ $pct := div (mul $total 100.0) $target }}
                         <h1 class="total">
-                            £{{$total}} raised of £200 ({{$pct}}%)
+                            £{{$total}} raised of £{{ $target}} ({{$pct}}%)
                         </h1>
                         <h3 class="raising-for">for <a class="heading-link" 
                             href="https://www.gosober.org.uk/beneficiaries/macmillan">
