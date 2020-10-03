@@ -2,6 +2,20 @@
 label: Post
 hide_body: false
 fields:
+- name: author
+  type: select
+  default: Jonathan
+  config:
+    required: true
+    options:
+    - Jonathan
+    - Heidi
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Posted By
 - type: text
   name: title
   label: title
@@ -34,20 +48,6 @@ fields:
   config:
     maxSize: 64
   label: Video
-- name: author
-  type: select
-  default: Jonathan
-  config:
-    required: true
-    options:
-    - Jonathan
-    - Heidi
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Posted By
 pages:
 - content/posts/2017/26-pimms.md
 - content/posts/2017/day-1-it-begins.md
