@@ -6,7 +6,6 @@ beer_name = "H2nooooooo"
 beer_photo = "uploads/image-1.jpg"
 brewer = "Tap "
 date = 2020-10-02T23:00:00Z
-draft = true
 publishdate = ""
 thumbnail = ""
 title = "Water leaks from the ceiling and you also have to drink it "
