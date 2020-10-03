@@ -9,8 +9,10 @@
                     <article>
 
                         {{ .Content }}
-                        <a href="#" class="image"><img src="{{ .Params.antic_photo | absURL }}" /></a>
 
+                        {{if .Params.antic_photo}}
+                        <a href="#" class="image"><img src="{{ .Params.antic_photo | absURL }}" /></a>
+                        {{end}}    
                         {{if .Params.video}}
 
                         <video controls>
