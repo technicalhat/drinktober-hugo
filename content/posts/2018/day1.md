@@ -8,6 +8,7 @@ brewer: Heineken
 beer_photo: uploads/beer1.jpg
 antic_photo: uploads/antic1.jpg
 thumbnail: uploads/thumbnail1.jpg
+author : Jonathan
 
 ---
 Right then, let's get this show on the road shall we?

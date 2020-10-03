@@ -9,6 +9,7 @@ publishdate = "2018-10-29T00:00:00+00:00"
 thumbnail = "uploads/29-medusa-thumbnail.jpg"
 title = "Day 29 - Turned to stone"
 video = ""
+author = "Jonathan"
 
 +++
 Disaster strikes for the 29th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG) - I've been turned into stone by the fearsome Medusa!

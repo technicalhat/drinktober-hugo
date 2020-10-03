@@ -9,6 +9,7 @@ publishdate = "2018-10-28T00:00:00+00:00"
 thumbnail = "uploads/28-ghost-ship-thumbnail.jpg"
 title = "Day 28 - Ghost Ship"
 video = "uploads/Day 28  Ghost Ship.mp4"
+author = "Jonathan"
 
 +++
 Shiver me timbers! Legends tell of a lost pirate vessel, cursed to wander the high seas eternally with her terrifying skeleton crew, only appearing on the 28th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG) to plunder the booty of the living.

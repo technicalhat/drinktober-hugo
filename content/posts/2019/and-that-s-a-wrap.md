@@ -9,6 +9,7 @@ publishdate = 2019-11-02T00:00:00Z
 thumbnail = "uploads/calendar-thumbnail.jpg"
 title = "And that's a wrap"
 video = ""
+author = "Jonathan"
 
 +++
 So there we have it, folks. Another year of [#Drinktober](https://www.facebook.com/hashtag/drinktober?epa=HASHTAG) comes to a close, and we absolutely smashed it this time around.

@@ -9,6 +9,7 @@ publishdate = ""
 thumbnail = ""
 title = "Get your Friday Heidi on "
 video = ""
+author = "Heidi"
 
 +++
 Today is _slightly_ **better**! Purchased some iron tablets: turned out that’s what fucked me up yesterday. An iron tablet and a multivit and I’m off. 

@@ -9,5 +9,6 @@ publishdate = "2019-10-02T01:00:00+00:00"
 thumbnail = "uploads/2-tragedy-small.jpg"
 title = "Day 2.5 - This is fucking Quorn"
 video = ""
+author = "Heidi"
 
 +++

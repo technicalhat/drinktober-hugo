@@ -9,6 +9,7 @@ publishdate = "2017-10-11T00:00:00+00:00"
 thumbnail = "uploads/11-mead-thumbnail.jpg"
 title = "Day 11 - Onwards to Valhalla!"
 video = ""
+author = "Jonathan"
 
 +++
 11th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?epa=HASHTAG) and I've gone all Viking with a horn of mead \\m/

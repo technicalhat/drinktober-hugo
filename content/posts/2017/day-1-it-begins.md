@@ -9,6 +9,7 @@ publishdate = "2017-10-01T00:00:00+00:00"
 thumbnail = "uploads/1-hobgoblin-thumbnail.jpg"
 title = "Day 1 - It begins!"
 video = ""
+author = "Jonathan"
 
 +++
 [#Drinktober](https://www.facebook.com/hashtag/drinktober?epa=HASHTAG) begins with a nice pint of fine Ruby ale. Mmm, lovely...

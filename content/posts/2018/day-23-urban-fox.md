@@ -9,6 +9,7 @@ publishdate = "2018-10-23T00:00:00+00:00"
 thumbnail = "uploads/23-urban-fox-thumbnail.jpg"
 title = "Day 23 - Urban Fox"
 video = ""
+author = "Jonathan"
 
 +++
 Slept like crap yesterday and I'm absolutely shattered tonight, so no chance of any comical costume shenanigans:(

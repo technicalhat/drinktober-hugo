@@ -9,6 +9,7 @@ publishdate = "2018-10-27T00:00:00+00:00"
 thumbnail = "uploads/27-pumpking-thumbnail.jpg"
 title = "Day 27 - Pumpking"
 video = ""
+author = "Jonathan"
 
 +++
 A horrifying presence arises for the 27th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG) - Beware the evil of the Pumpking!

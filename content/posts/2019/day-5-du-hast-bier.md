@@ -9,6 +9,7 @@ publishdate = "2019-10-05T00:00:00+00:00"
 thumbnail = "uploads/5-Rammsteiner-thumbnail.jpg"
 title = "Day 5 - Du Hast Bier"
 video = ""
+author = "Jonathan"
 
 +++
 > You've got a pussy!

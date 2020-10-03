@@ -9,6 +9,7 @@ publishdate = "2017-10-09T00:00:00+00:00"
 thumbnail = "uploads/9-cava-thumbail.jpg"
 title = "Day 9 - bubbles!"
 video = ""
+author = "Jonathan"
 
 +++
 Drop of cava for the 9th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?epa=HASHTAG) - bubbleicious!

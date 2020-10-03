@@ -9,6 +9,7 @@ publishdate = ""
 thumbnail = ""
 title = "DAY 2! "
 video = ""
+author = "Heidi"
 
 +++
 Day 2, feeling confident! Day one was a piece of piss because I was ill, so I slept through my normal drinking time! So far today I’m on 5 coffees, a herbal tea and 4 waters, might be piddling for England but sober af! 🙌🏻

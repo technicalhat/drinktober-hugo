@@ -9,6 +9,7 @@ publishdate = "2019-10-14T00:00:00+00:00"
 thumbnail = "uploads/14-Golden-Crown-thumbnail.jpg"
 title = "Day 14 - Never a frown"
 video = ""
+author = "Jonathan"
 
 +++
 14th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG) and I'm just having a normal Monday, sitting around in my Golden Crown as you do.

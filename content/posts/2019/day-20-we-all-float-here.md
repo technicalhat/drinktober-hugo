@@ -9,6 +9,7 @@ publishdate = "2019-10-20T00:00:00+00:00"
 thumbnail = "uploads/20-Levitate-thumbnail.jpg"
 title = "Day 20 - We all float here"
 video = ""
+author = "Jonathan"
 
 +++
 The strangest thing happened for the 20th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG).

@@ -9,6 +9,7 @@ publishdate = "2018-10-30T00:00:00+00:00"
 thumbnail = "uploads/30-blue-moon-thumbnail.jpg"
 title = "Day 30 - Blue moon"
 video = ""
+author = "Jonathan"
 
 +++
 It's the 30th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG)

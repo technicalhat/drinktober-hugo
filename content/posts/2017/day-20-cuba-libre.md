@@ -9,6 +9,7 @@ publishdate = "2017-10-30T00:00:00+00:00"
 thumbnail = "uploads/30-cuba-libre-thumbnail.jpg"
 title = "Day 30 - Cuba libre"
 video = ""
+author = "Jonathan"
 
 +++
 30th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?epa=HASHTAG) - only one more day to go! Cuba Libre tonight, another premixed canned job :)

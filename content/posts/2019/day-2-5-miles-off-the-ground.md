@@ -9,6 +9,7 @@ publishdate = "2019-10-02T00:00:00+00:00"
 thumbnail = "uploads/2-bomber-thumbnail.jpg"
 title = "Day 2 - 5 miles off the ground"
 video = ""
+author = "Jonathan"
 
 +++
 > When we shoot to kill

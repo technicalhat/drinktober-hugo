@@ -50,7 +50,6 @@
     <div id="features-wrapper">
         <div class="container">
             <div class="row">
-                
                 {{range where (where .Site.RegularPages "Section" "posts") "Date.Year" "==" 2020 }}
                 
                 <div class="col-4 col-12-medium">
@@ -64,6 +63,10 @@
                                     <p>{{ .Title }}</p>
                                 </header></a>
                             </div>
+                            {{if .Params.author}}
+                            {{ $thumbnail := cond (eq .Params.author "Jonathan") "/jonathan-face.jpg" "/heidi-face.jpg"}}
+                            <div class="feature_thumb"><img src="{{$thumbnail}}"/></div>
+                            {{end}}
                         </section>
 
                 </div>

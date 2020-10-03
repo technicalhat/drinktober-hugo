@@ -9,6 +9,7 @@ publishdate = "2018-10-16T00:00:00+00:00"
 thumbnail = "uploads/16-treacle-treat-thumbnail.jpg"
 title = "Day 16 - Treacle Treat"
 video = ""
+author = "Jonathan"
 
 +++
 We're past the halfway mark now on the 16th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG), and I'm having a Treacle Treat. Really nice dark ale with a cool skull design, which is always good :)

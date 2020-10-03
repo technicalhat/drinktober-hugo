@@ -9,6 +9,7 @@ publishdate = 2019-10-31T01:00:00Z
 thumbnail = "uploads/31-666-thumbnail-1.jpg"
 title = "Day 31 - Drinkoween!"
 video = "uploads/satan2.mp4"
+author = "Jonathan"
 
 +++
 > Gee, Jonny, what are we going to do tonight?

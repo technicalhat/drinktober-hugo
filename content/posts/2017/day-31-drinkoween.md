@@ -9,6 +9,7 @@ publishdate = "2017-10-31T00:00:00+00:00"
 thumbnail = "uploads/31-pumpking-thumbnail.jpg"
 title = "Day 31 - Drinkoween!"
 video = ""
+author = "Jonathan"
 
 +++
 Bit of a spooky theme for the 31st of [#Drinktober](https://www.facebook.com/hashtag/drinktober?epa=HASHTAG) - it's Drinkoween!  

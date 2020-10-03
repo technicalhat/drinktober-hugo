@@ -9,6 +9,7 @@ publishdate = "2017-10-08T00:00:00+00:00"
 thumbnail = "uploads/8-malibu-thumbnail.jpg"
 title = "Day 8 - Sunshine!"
 video = ""
+author = "Jonathan"
 
 +++
 8th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?epa=HASHTAG) and just for a change the daystar showed its face. Seemed like a good opportunity to take this Malibu & pineapple out in the garden and catch a bit of sun

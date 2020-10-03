@@ -26,6 +26,10 @@
                                     <p>{{ .Title }}</p>
                                 </header></a>
                             </div>
+                            {{if .Params.author}}
+                            {{ $thumbnail := cond (eq .Params.author "Jonathan") "/jonathan-face.jpg" "/heidi-face.jpg"}}
+                            <div class="feature_thumb"><img src="{{$thumbnail}}"/></div>
+                            {{end}}
                         </section>
 
                 </div>

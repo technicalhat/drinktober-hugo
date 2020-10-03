@@ -9,6 +9,7 @@ publishdate = "2018-10-15T00:00:00+00:00"
 thumbnail = "uploads/15-esb-thumbnail.jpg"
 title = "Day 15 - Felinfoel ESB"
 video = ""
+author = "Jonathan"
 
 +++
 For the 15th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG) I'm having a Felinfoel ESB, mainly because its got an awesome dragon on the label :)

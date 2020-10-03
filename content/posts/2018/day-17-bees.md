@@ -9,6 +9,7 @@ publishdate = "2018-10-17T00:00:00+00:00"
 thumbnail = "uploads/17-queen-bee-thumbnail.jpg"
 title = "Day 17 - Bees!"
 video = ""
+author = "Jonathan"
 
 +++
 For [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG) the 17th I'm having a Queen Bee honey ale.

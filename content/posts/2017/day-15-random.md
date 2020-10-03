@@ -9,6 +9,7 @@ publishdate = "2017-10-15T00:00:00+00:00"
 thumbnail = "uploads/15-alize-thumbnail.jpg"
 title = "Day 15 - Random"
 video = ""
+author = "Jonathan"
 
 +++
 15th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?epa=HASHTAG) and today I'm drinking some random stuff I found at Aldi. "Alizé", apparently - mix of cognac, vodka and passion fruit. I didn't even know French vodka was a thing...

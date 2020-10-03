@@ -9,6 +9,7 @@ publishdate = ""
 thumbnail = ""
 title = "It’s only chuffing DONE! "
 video = ""
+author = "Heidi"
 
 +++
 Well, it’s done!! And what a bloody month. Here’s what I learned:

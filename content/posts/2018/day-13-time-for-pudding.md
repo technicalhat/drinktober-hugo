@@ -9,6 +9,7 @@ publishdate = "2018-10-13T00:00:00+00:00"
 thumbnail = "uploads/13-sticky-toffee-thumbnail.jpg"
 title = "Day 13 - Time for pudding"
 video = ""
+author = "Jonathan"
 
 +++
 13th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG) - tonight I'm having a Sticky Toffee Pudding Ale. It's really nice :)

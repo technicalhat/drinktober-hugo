@@ -9,6 +9,7 @@ publishdate = "2018-10-07T00:00:00+00:00"
 thumbnail = "uploads/7-guinness-thumbnail.jpg"
 title = "Day 7 - Guinness"
 video = ""
+author = "Jonathan"
 
 +++
 Bit of a quiet one for the 7th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG), just chilling out with a pint of Guinness after video gaming all weekend.

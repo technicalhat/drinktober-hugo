@@ -9,6 +9,7 @@ publishdate = "2018-10-06T00:00:00+00:00"
 thumbnail = "uploads/6-wadnams-ipa-thumbnail-1.jpg"
 title = "Day 6 - A Thirst for Justice"
 video = ""
+author = "Jonathan"
 
 +++
 For the 6th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG), Judge Beerman is quenching his thirst for justice with a pint of Wadworth IPA

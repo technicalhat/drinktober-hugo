@@ -9,6 +9,7 @@ publishdate = "2017-10-18T00:00:00+00:00"
 thumbnail = "uploads/18-brooklyn-thumbnail.jpg"
 title = "Day 18 - No sleep..."
 video = ""
+author = "Jonathan"
 
 +++
 18th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?epa=HASHTAG) - Brooklyn Lager tonight

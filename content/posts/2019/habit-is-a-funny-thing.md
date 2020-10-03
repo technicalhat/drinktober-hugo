@@ -9,6 +9,7 @@ publishdate = ""
 thumbnail = ""
 title = "Habit is a funny thing "
 video = ""
+author = "Heidi"
 
 +++
 Habits are funny aren’t they! 5 days in and I’ve lost count of the number of times I’ve thought “oh I’ll just grab a coke” or wandered aimlessly to the wine aisle and spent £15 before I’ve even thought about if I actually want it! 

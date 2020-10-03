@@ -9,6 +9,7 @@ publishdate = "2017-10-06T00:00:00+00:00"
 thumbnail = "uploads/6-cobra-thumbnail.jpg"
 title = "Day 6 - Curry night!"
 video = ""
+author = "Jonathan"
 
 +++
 6th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?epa=HASHTAG), and it's Curry night! So that means chicken vindaloo and frosty Indian lager :)

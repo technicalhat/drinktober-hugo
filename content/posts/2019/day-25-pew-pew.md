@@ -9,6 +9,7 @@ publishdate = "2019-10-25T00:00:00+00:00"
 thumbnail = "uploads/25-galaga-thumbnail.jpg"
 title = "Day 25 - Pew! Pew!"
 video = ""
+author = "Jonathan"
 
 +++
 Beer and video games - not a bad way to spend the 25th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG)!

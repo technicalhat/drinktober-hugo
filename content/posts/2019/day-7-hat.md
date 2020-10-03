@@ -9,6 +9,7 @@ publishdate = "2019-10-07T00:00:00+00:00"
 thumbnail = "uploads/6-Wild-Bills-IPA-thumbnail.jpg"
 title = "Day 7 - Hat"
 video = ""
+author = "Jonathan"
 
 +++
 Going cowboy style for the 7th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG) with this Wild Bill's IPA. 

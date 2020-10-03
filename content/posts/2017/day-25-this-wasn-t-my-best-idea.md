@@ -9,6 +9,7 @@ publishdate = "2017-10-25T00:00:00+00:00"
 thumbnail = "uploads/25-tequila-tropical-thumbnail.jpg"
 title = "Day 25 - This wasn't my best idea"
 video = ""
+author = "Jonathan"
 
 +++
 25th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?epa=HASHTAG), and tonight's theme is "wow, I've got a lot of tequila left. I wonder if it mixes well with this tropical fruit drink?"

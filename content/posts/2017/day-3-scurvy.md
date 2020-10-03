@@ -9,6 +9,7 @@ publishdate = "2017-10-03T00:00:00+00:00"
 thumbnail = "uploads/3-rum-thumbnail.jpg"
 title = "Day 3 - Scurvy"
 video = ""
+author = "Jonathan"
 
 +++
 For the 3rd of [#Drinktober](https://www.facebook.com/hashtag/drinktober?epa=HASHTAG), I've got a bit of a pirate theme going, with Captain Morgan and coke. Yarr!

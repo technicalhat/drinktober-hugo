@@ -9,6 +9,7 @@ publishdate = "2017-10-28T00:00:00+00:00"
 thumbnail = "uploads/28-dnb-thumbnail.jpg"
 title = "Day 28 - A bit of DnB"
 video = ""
+author = "Jonathan"
 
 +++
 28th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?epa=HASHTAG), and tonight I've found this alcoholic dandelion & burdock. It's not bad :)

@@ -9,6 +9,7 @@ publishdate = "2017-10-22T00:00:00+00:00"
 thumbnail = "uploads/22-shot-thumbnail.jpg"
 title = "Day 22 - What even is this stuff?"
 video = ""
+author = "Jonathan"
 
 +++
 22nd of [#Drinktober](https://www.facebook.com/hashtag/drinktober?epa=HASHTAG), and we've reached the "any old shite that's in the house" stage ) This is from a box of pre-packaged "flavoured shots" - think this was the apple one.

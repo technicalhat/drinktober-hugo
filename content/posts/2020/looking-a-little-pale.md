@@ -9,7 +9,8 @@ publishdate = 2020-10-02T11:00:00Z
 thumbnail = "uploads/02-rudgate-pale-thumbnail.jpg"
 title = "Looking a little pale"
 video = ""
-
+author = "Jonathan"
+ 
 +++
 A fairly quiet one for the second of Drinktober. I'm hard at work in the Beercave prepping for the insanity to come, just taking a break to enjoy a tasty Rudgate Pale.
 

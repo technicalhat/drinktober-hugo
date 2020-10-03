@@ -9,6 +9,7 @@ publishdate = "2017-10-04T00:00:00+00:00"
 thumbnail = "uploads/4-old-rosie-thumbnail.jpg"
 title = "Day 4 - Old Rosie"
 video = ""
+author = "Jonathan"
 
 +++
 Drop of cider for the 4th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?epa=HASHTAG) - cheers!

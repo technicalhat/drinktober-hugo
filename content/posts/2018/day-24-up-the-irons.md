@@ -9,6 +9,7 @@ publishdate = "2018-10-24T00:00:00+00:00"
 thumbnail = "uploads/24-trooper-thumbnail.jpg"
 title = "Day 24 - Up the Irons"
 video = ""
+author = "Jonathan"
 
 +++
 For the 24th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG) it's on with the Maiden shirt and up with the horns for a lovely bottle of Trooper \\m/

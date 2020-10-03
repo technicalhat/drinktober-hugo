@@ -9,7 +9,8 @@ publishdate = 2020-09-19T13:00:00Z
 thumbnail = "uploads/intro-drink.jpg"
 title = "Drinktober 2020 - Lockdown lock-in!"
 video = ""
-
+author = "Jonathan"
+ 
 +++
 Welcome back to Drinktober 2020 - we're having a lock-in! Or a lockdown! Hopefully not getting locked up...
 

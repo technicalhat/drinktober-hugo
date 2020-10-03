@@ -9,6 +9,7 @@ publishdate = "2019-10-21T00:00:00+00:00"
 thumbnail = "uploads/21-Different-Class-thumbnail.jpg"
 title = "Day 21 - Different class"
 video = ""
+author = "Jonathan"
 
 +++
 21st of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG), and tonight's beer is a Loch Lomond Different Class.

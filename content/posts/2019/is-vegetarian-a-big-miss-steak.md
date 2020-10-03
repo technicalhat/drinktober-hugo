@@ -9,6 +9,7 @@ publishdate = ""
 thumbnail = ""
 title = "Vegetarianism is just a big Miss-Steak"
 video = ""
+author = "Heidi"
 
 +++
 I’ve realised that this site has become more my rambling blog than anything so I’ll keep it brief today! 90’s Carrie Bradshaw narration isn’t a good look for me.

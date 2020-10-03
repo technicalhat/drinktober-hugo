@@ -9,6 +9,7 @@ publishdate = "2019-10-01T01:00:00+00:00"
 thumbnail = "uploads/1-tragedy-small.jpg"
 title = "Day 1.5 - Meanwhile on Planet Heidi"
 video = ""
+author = "Heidi"
 
 +++
 kill me now

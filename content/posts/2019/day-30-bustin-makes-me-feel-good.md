@@ -9,6 +9,7 @@ publishdate = 2019-10-30T01:00:00Z
 thumbnail = "uploads/30-Stay-Puft-thumbnail.jpg"
 title = "Day 30 - Bustin' makes me feel good"
 video = ""
+author = "Jonathan"
 
 +++
 These supernatural incursions have been getting out of hand. Time to bust out my trusty proton pack for the 30th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG) and send them all back to Spookytown!
