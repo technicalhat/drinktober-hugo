@@ -1,0 +1,20 @@
++++
+abv = "0.00000"
+antic_photo = ""
+author = "Heidi"
+beer_name = "H2nooooooo"
+beer_photo = ""
+brewer = "Tap "
+date = 2020-10-02T23:00:00Z
+draft = true
+publishdate = ""
+thumbnail = ""
+title = "Water leaks from the ceiling and you have to drink it "
+video = ""
+
++++
+Ok day three, whatcha got? 
+
+Well we all know I’m a prolific stress drinker. So today I had a small paddy that my house is essentially falling down, nothing works and my pipes (Which are leaking) are made of lead (apparently this is bad). So I realllllly fancied some wine, or 9 double vodkas of something . 
+
+However, I’ve stayed strong and drank water all goddamn day. Which is slightly less appealing to drink when it’s slowly dripping from your ceiling. 
