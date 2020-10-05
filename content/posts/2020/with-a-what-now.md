@@ -12,12 +12,11 @@ title = "With a what now?"
 video = ""
 
 +++
-> Fuck! You! You're a fucking wanker
-> We're gonna punch you right in the balls
-> Fuck! You! With a fucking anchor
-> You're all cunts so fuck you all!
+> Fuck! You! You're a fucking wanker! We're gonna punch you right in the balls!
 >
-> [https://youtu.be/th4Czv1j3F8](Alestorm - Fucked with an anchor)
+> Fuck! You! With a fucking anchor! You're all cunts so fuck you all!
+>
+> [Alestorm - Fucked with an anchor](https://youtu.be/th4Czv1j3F8)
 
 Stretching the theme a little bit for the 5th of Drinktober, but I couldn't resist the opportunity to combine three of my favourite things. Pirate costumes, heavy metal and gratuitous swearing!
 
