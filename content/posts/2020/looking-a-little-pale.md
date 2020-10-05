@@ -15,3 +15,6 @@ author = "Jonathan"
 A fairly quiet one for the second of Drinktober. I'm hard at work in the Beercave prepping for the insanity to come, just taking a break to enjoy a tasty Rudgate Pale.
 
 Tune in tomorrow, same beer time, same beer channel, when we start to kick things up a notch!
+
+
+ 
