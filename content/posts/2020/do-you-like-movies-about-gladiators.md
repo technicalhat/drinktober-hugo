@@ -12,10 +12,14 @@ title = "Do you like movies about gladiators?"
 video = ""
 
 +++
-> My name is Citrus Maxima. Commander of the armies of the Hops. General of the zesty Legions, loyal servant of the brew Emperor. 
-> Drinker of a finished pint, holder of an empty glass. 
-> And I will have my beer, in this pub or the next! 
+> My name is Citrus Maxima. Commander of the armies of the Hops. General of the zesty Legions, loyal servant of the brew Emperor.
+>
+> 
+> Drinker of a finished pint, holder of an empty glass.
+> 
+>
+> And I will have my beer, in this pub or the next!
 
-Stepping back in time for the 10th of Drinktober, to the days of Ancient Rome, where the mighty gladiator Citrus Maxima conquered the arena and toppled an empire. 
+Stepping back in time for the 10th of Drinktober, to the days of Ancient Rome, where the mighty gladiator Citrus Maxima conquered the arena and toppled an empire.
 
 Are you not entertained?
