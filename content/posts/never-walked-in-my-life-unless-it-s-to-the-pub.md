@@ -6,7 +6,6 @@ beer_name = "Noné"
 beer_photo = "uploads/b90cbeb5-2314-465a-962d-6cf2b0351e02.jpeg"
 brewer = ""
 date = 2020-10-09T23:00:00Z
-draft = true
 publishdate = ""
 thumbnail = ""
 title = "Never walked in my life unless it’s to the pub"
