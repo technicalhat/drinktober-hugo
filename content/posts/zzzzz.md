@@ -6,7 +6,6 @@ beer_name = "Bollock all "
 beer_photo = ""
 brewer = ""
 date = 2020-10-11T23:00:00Z
-draft = true
 publishdate = ""
 thumbnail = ""
 title = "Zzzzz"
