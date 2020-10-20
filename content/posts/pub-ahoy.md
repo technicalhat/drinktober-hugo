@@ -6,7 +6,6 @@ beer_name = ""
 beer_photo = "uploads/8939a243-c696-4914-a5db-c0553d06366f.jpeg"
 brewer = ""
 date = 2020-10-19T23:00:00Z
-draft = true
 publishdate = 2020-10-19T23:00:00Z
 thumbnail = ""
 title = "Pub ahoy! "
