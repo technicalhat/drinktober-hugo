@@ -14,4 +14,4 @@ video = ""
 +++
 It's-a-me! Jonny-O!
 
-Tonight finds me racing on that most fiendish of tracks - the Rainbow Road. Luckily I've got a good supply of IPA power-ups!
+Tonight finds me racing on that most fiendish of tracks - the Rainbow Road. Luckily I've got a good supply of IPA power-ups to help fend off the roaming Goombas!
