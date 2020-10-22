@@ -6,7 +6,6 @@ beer_name = "Time is of the essence "
 beer_photo = ""
 brewer = ""
 date = 2020-10-22T23:00:00Z
-draft = true
 publishdate = ""
 thumbnail = ""
 title = "Where’s October? "
