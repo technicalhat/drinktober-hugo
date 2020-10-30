@@ -6,7 +6,6 @@ beer_name = ""
 beer_photo = ""
 brewer = ""
 date = 2020-10-30T00:00:00Z
-draft = true
 publishdate = 2020-10-30T00:00:00Z
 thumbnail = ""
 title = "So _CLOSE_ "
