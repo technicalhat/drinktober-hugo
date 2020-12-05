@@ -84,10 +84,18 @@
         <div class="col-12">
             <div id="copyright">
                 <ul class="menu">
-                    <li>&copy; {{ now.Format "2006" }} Drinktober. All rights reserved</li><li><a href="/privacy">Privacy policy</a></li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+                    <li>&copy; {{ now.Format "2006" }} Drinktober. All rights reserved</li><li><a href="/about">About Drinktober</a></li><li><a href="/privacy">Privacy policy</a></li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
                 </ul>
             </div>
         </div>
     </div>
+    {{ if .Site.Params.debug }}
+    <div class="row">
+        <div class="col-12">
+            {{ partial "debugprint.html" .}}
+        </pre>
+        </div>
+    </div>
+    {{ end }}
 </footer>
 

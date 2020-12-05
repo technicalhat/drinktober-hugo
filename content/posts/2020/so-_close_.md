@@ -10,7 +10,7 @@ publishdate = 2020-10-30T00:00:00Z
 thumbnail = ""
 title = "So _CLOSE_ "
 video = ""
-
+aliases = ["/posts/so-_close_/"]
 +++
 It’s so bloody close!! 
 

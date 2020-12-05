@@ -10,7 +10,7 @@ thumbnail = "uploads/31-666-thumbnail-1.jpg"
 title = "Day 31 - Drinkoween!"
 video = "uploads/satan2.mp4"
 author = "Jonathan"
-
+aliases = ["/posts/day-31-drinkoween/"]
 +++
 > Gee, Jonny, what are we going to do tonight?
 >

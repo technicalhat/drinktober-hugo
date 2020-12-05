@@ -10,7 +10,7 @@ publishdate = 2020-11-01T00:00:00Z
 thumbnail = ""
 title = "IT IS DONE!! "
 video = ""
-
+aliases = ["/posts/it-is-done/"]
 +++
 IT 👏 IS 👏 DONE 👏
 

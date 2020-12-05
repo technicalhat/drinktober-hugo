@@ -1,31 +1,7 @@
 
 {{define "main"}}
     {{- partial "donate_banner.html" . -}}
-    
-    <section id="banner" class="box container">
-        <div class="row">
-            <div class="col-3 col-7-large col-12-small">
-                <h1>Heidi is going sober for October</h1>
-                {{.Params.heidi_text | markdownify }}
-            </div>
-            <div class="col-3 col-5-large col-12-small">
-                    <section>
-                        <a href="#" class="image featured"><img src="heidi.jpg" alt="" /></a>
-                    </section>
-            </div>
-        <!-- </div>
-        <div class="row"> -->
-            <div class="col-3 col-5-large col-12-small">
-                <section>
-                    <a href="#" class="image featured"><img src="jonathan.jpg" alt="" /></a>
-                </section>
-            </div>
-            <div class="col-3 col-7-large col-12-small">
-                <h1>Her friend Jonathan... isn't</h1>
-                {{.Params.jonathan_text | markdownify }}
-            </div>
-        </div>
-    </section>
+  
 			
     <div id="main-wrapper">
 
@@ -49,8 +25,21 @@
     </div>
     <div id="features-wrapper">
         <div class="container">
-            <div class="row">
-                {{range where (where .Site.RegularPages "Section" "posts") "Date.Year" "==" 2020 }}
+            <!-- it would be nice to make this automatic, but realistically I can live with updating the template once or twice a year-->
+           
+                <section class="year-row row">
+                    <div class="col-12">
+                    <a href="/12beers/2020"><h1>12 beers of Christmas 2020</h1></a>
+                </div>
+                {{ $latest := where (where .Site.RegularPages "Section" "12beers") "Date.Year" "==" 2020  }}
+                {{if eq (len $latest) 0}}
+                
+                <div class="col-12 ">
+                    <img class="placeholder-col" src="/images/christmas_placeholder.png">
+                </div>
+                
+                {{else}}
+                {{range first 3 $latest}}
                 
                 <div class="col-4 col-12-medium">
 
@@ -71,21 +60,79 @@
 
                 </div>
                 {{end}}
+                
 
-            </div>
-        </div>
+                <div class="col-12">
+                    <a class="btn btn-primary btn-lg" href="/posts/2020">all of 12 beers of Christmas 2020</a>
+                </div>
+                {{end}}
+                </section>
+                
+                <section class="year-row row">
+                    <div class="col-12">
+                        <a href="/posts/2020"><h1>Drinktober 2020</h1></a>
+                    </div>
+                {{range first 3 (where (where .Site.RegularPages "Section" "posts") "Date.Year" "==" 2020 )}}
+                
+                <div class="col-4 col-12-medium">
+
+                    <!-- Box -->
+                        <section class="box feature">
+                            <a href="{{.Permalink}}" class="image featured"><img src='{{ .Params.thumbnail | absURL }}' alt="" /></a>
+                            <div class="inner">
+                                    <a href="{{.Permalink}}"><header>
+                                    <h2>{{.Date.Format "January"}} {{.Date.Day}} {{.Date.Year}}</h2>
+                                    <p>{{ .Title }}</p>
+                                </header></a>
+                            </div>
+                            {{if .Params.author}}
+                            {{ $thumbnail := cond (eq .Params.author "Jonathan") "/jonathan-face.jpg" "/heidi-face.jpg"}}
+                            <div class="feature_thumb"><img src="{{$thumbnail}}"/></div>
+                            {{end}}
+                        </section>
+
+                </div>
+                {{end}}
+                <div class="col-12">
+                    <a class="btn btn-primary btn-lg" href="/posts/2020">all of Drinktober 2020</a>
+                </div>
+
+                </section>
        {{range where .Sections "Section" "==" "posts"}}
             {{range .Sections}}
             {{$year := path.Base .File.Dir}}
                 {{if ne (path.Base .File.Dir) "2020"}}
 
-                <div class="box container">
-                    <div class="row">
+                <section class="year-row row">
                         <div class="col-12">
                             <a href="{{.Permalink}}"><h1>{{.Title}}</h1></a>
                         </div>
-                    </div>
+                        {{range first 3 .Pages}}
+                
+                        <div class="col-4 col-12-medium">
+        
+                            <!-- Box -->
+                                <section class="box feature">
+                                    <a href="{{.Permalink}}" class="image featured"><img src='{{ .Params.thumbnail | absURL }}' alt="" /></a>
+                                    <div class="inner">
+                                            <a href="{{.Permalink}}"><header>
+                                            <h2>{{.Date.Format "January"}} {{.Date.Day}} {{.Date.Year}}</h2>
+                                            <p>{{ .Title }}</p>
+                                        </header></a>
+                                    </div>
+                                    {{if .Params.author}}
+                                    {{ $thumbnail := cond (eq .Params.author "Jonathan") "/jonathan-face.jpg" "/heidi-face.jpg"}}
+                                    <div class="feature_thumb"><img src="{{$thumbnail}}"/></div>
+                                    {{end}}
+                                </section>
+        
+                        </div>
+                        {{end}}
+                        
+                <div class="col-12">
+                    <a class="btn btn-primary btn-lg" href="{{.Permalink}}">all of {{.Title}}</a>
                 </div>
+                    </section>
                 {{end}}
             {{end}}
        {{end}}

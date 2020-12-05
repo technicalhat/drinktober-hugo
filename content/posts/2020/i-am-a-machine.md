@@ -10,7 +10,7 @@ publishdate = 2020-10-17T23:00:00Z
 thumbnail = ""
 title = "I am a machine "
 video = ""
-
+aliases = ["/posts/i-am-a-machine/"]
 +++
 Hola! Works been stressful and last night I struggled a lot to not drink.   
 Butttttt, today I got weighed and I’ve lost 6lbs, taking my total to 16lbs which made me feel better! Went walking and managed 8.2 miles today, meaning I don’t fancy a drink at all tonight! 

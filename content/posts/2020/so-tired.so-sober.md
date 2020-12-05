@@ -10,7 +10,7 @@ publishdate = ""
 thumbnail = ""
 title = "So tired. So sober. "
 video = ""
-
+aliases = ["/posts/so-tired.so-sober"]
 +++
 Sooooooo tired and I have no energy! Went to give blood Today and it’s the first time it’s not been a great excuse to get drunk quicker! Overall I’m feeling better not drinking but I’m struggling to stay awake tonight: I reckon one vodka would currently knock me out anyway so I guess Viva le Sober! 
 

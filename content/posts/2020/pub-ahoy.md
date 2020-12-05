@@ -10,7 +10,7 @@ publishdate = 2020-10-19T23:00:00Z
 thumbnail = ""
 title = "Pub ahoy! "
 video = ""
-
+aliases = ["/posts/pub-ahoy/"]
 +++
 The ultimate challenge has occurred: had a meeting in the pub tonight after work. But, I stayed strong; and had 2 diet cokes! Which weirdly are more expensive than a pint, but hey ho still cheaper than moet. 
 

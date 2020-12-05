@@ -10,7 +10,7 @@ publishdate = 2020-10-21T11:00:00Z
 thumbnail = "uploads/21-american-psycho-thumb.jpg"
 title = "Dark Passenger"
 video = ""
-
+aliases = ["/posts/dark-passenger/"]
 +++
 There are a lot of names for what I do. Monster. Maniac. Serial killer. 
 

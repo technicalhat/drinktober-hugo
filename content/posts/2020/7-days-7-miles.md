@@ -10,6 +10,6 @@ publishdate = ""
 thumbnail = ""
 title = "7 days, 7 miles "
 video = ""
-
+aliases = ["/posts/7-days-7-miles/"]
 +++
 Only 7 days to go!! It feels like it’s gone super fast this year. On the theme of 7’s..... I lost another 7lbs this week, so celebrated by going for a 7 mile walk. And it RAINNNNNED. I got piss wet through, but persevered, like I have with my sober challenge! 

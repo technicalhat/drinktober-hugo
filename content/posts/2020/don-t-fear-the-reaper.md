@@ -10,7 +10,7 @@ publishdate = 2020-10-31T12:00:00Z
 thumbnail = "uploads/31-garden-of-death-thumb.jpg"
 title = "Don't fear the reaper"
 video = ""
-
+aliases = ["/posts/don-t-fear-the-reaper"]
 +++
 And so at last we come to the final night of Drinktober 2020. It's Drinkowe'en - the drunkest, spookiest night of the year!
 

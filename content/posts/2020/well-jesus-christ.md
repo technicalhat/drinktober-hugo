@@ -10,7 +10,7 @@ publishdate = ""
 thumbnail = ""
 title = "Well Jesus Christ "
 video = ""
-
+aliases = ["/posts/well-jesus-christ/"]
 +++
 Well, that was a few days. Sent to work from home because I’ve developed a bizarre hives like rash type affair _EVERYWHERE_..... which apparently is a covid sign. Also, I’ve developed random sporadic vomiting today, WITHOUT EVEN HAVING AN ALCOHOL. Wtf?!! 
 

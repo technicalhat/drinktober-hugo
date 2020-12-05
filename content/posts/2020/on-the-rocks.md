@@ -10,6 +10,7 @@ publishdate = 2020-10-26T00:00:00Z
 thumbnail = ""
 title = "On the rocks"
 video = ""
+aliases = ["/posts/on-the-rocks/"]
 
 +++
 I like a southern comfort or a brandy on the rocks, even a cheeky gin ting too. Yesterday I was on different rocks! 

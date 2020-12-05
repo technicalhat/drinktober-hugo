@@ -10,7 +10,7 @@ publishdate = 2020-10-15T11:00:00Z
 thumbnail = ""
 title = "Please God give me a gin."
 video = ""
-
+aliases = ["/posts/please-god-give-me-a-gin/"]
 +++
 Jesus Christ I wanted a drink tonight!! I could on practically taste it. I spent a moment gazing at the prosecco at my corner shop waving my bank card and probably looked a bit not ok. 
 

@@ -1,6 +1,6 @@
 ---
-title: Drinktober 2020
-date: 2020-09-01
+title: 12 beers of Christmas 2020
+date: 2020-12-01
 publishdate: 2001-01-01
 layout: list
 ---

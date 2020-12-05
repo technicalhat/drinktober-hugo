@@ -10,7 +10,7 @@ publishdate = ""
 thumbnail = ""
 title = "Where’s October? "
 video = ""
-
+aliases = ["/posts/where-s-october/"]
 +++
 Where the hell has October gone?! A week and a day to go until normality can resume. Today was manic and I didn’t atop, but I didn’t actually think about having a drink, even though I had a night to myself when I’d usually treat myself. That’s personal growth right there lads! 
 

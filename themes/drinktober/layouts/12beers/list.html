@@ -1,0 +1,49 @@
+{{define "main"}}
+
+{{- partial "donate_banner.html" . -}}
+<div id="banner" class="box container">
+    <div class="row">
+        <div class="col-12">
+            <h2>{{ .Title }}</h2>
+            {{ .Content }}
+        </div>
+    </div>
+</div>
+<div id="features-wrapper">
+        <div class="container">
+            <div class="row">
+                {{ $latest := .CurrentSection.Pages  }}
+                
+                {{if eq (len $latest) 0}}
+                
+                <div class="col-12 ">
+                    <img class="placeholder-col" src="/images/christmas_placeholder.png">
+                </div>
+                
+                {{else}}
+                {{range $latest }}
+                
+                <div class="col-4 col-12-medium">
+
+                    <!-- Box -->
+                        <section class="box feature">
+                            <a href="{{.Permalink}}" class="image featured"><img src='{{ .Params.thumbnail | absURL }}' alt="" /></a>
+                            <div class="inner">
+                                    <a href="{{.Permalink}}"><header>
+                                    <h2>{{.Date.Format "January"}} {{.Date.Day}} {{.Date.Year}}</h2>
+                                    <p>{{ .Title }}</p>
+                                </header></a>
+                            </div>
+                            {{if .Params.author}}
+                            {{ $thumbnail := cond (eq .Params.author "Jonathan") "/jonathan-face.jpg" "/heidi-face.jpg"}}
+                            <div class="feature_thumb"><img src="{{$thumbnail}}"/></div>
+                            {{end}}
+                        </section>
+
+                </div>
+                {{end}}
+                {{end}}
+            </div>
+        </div>
+    </div>
+{{end}}

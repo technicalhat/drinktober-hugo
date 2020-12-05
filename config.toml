@@ -8,5 +8,6 @@ CanonifyURLs=true
     keywords = "drinktober, charity, sober october, alcohol, raising money, drink beer every day, soberhero, not so sober hero, being a jerk, cancer support, october, beer, drink all the beer, Macmillan Cancer Support"
     totalraised = 206.66
     targettotal = 250
-    donationsActive = true
+    donationsActive = false
     donateLink = "https://www.gosober.org.uk/users/heidi-victoria-ireland"
+    debug = false
