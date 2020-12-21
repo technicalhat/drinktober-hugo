@@ -57,7 +57,7 @@
 
                     </section>
                     
-                    {{- partial "donate_single.html" -}}
+                    {{- partial "donate_single.html" . -}} 
                     <section>
                         <h3>More beer</h3>
                         {{ range first 5 (where .CurrentSection.Pages "Date" "< " .Date) }}
