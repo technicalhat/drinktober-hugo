@@ -2,21 +2,23 @@
 
 {{ if .Site.Params.donationsActive  }}
 <section id="progress-banner" class="box container">
-    {{ $total := .Site.Params.totalraised}}
-    {{ $target := .Site.Params.targettotal }}
-    {{ $pct := div (mul $total 100.0) $target }}
-    <div class="row">
-        <div class="col-12">
-            <h1 class="total">
-            £{{$total}} raised of £{{$target}} ({{$pct}}%)
-            </h1>
-            <div class="progress">
-                <div class="progress-bar" style="width: {{cond (le $pct 100.0) $pct 100}}%;">
-                    <div class="sr-only">{{$pct}}%</div>
+    {{ if .Site.Params.showProgress }}
+        {{ $total := .Site.Params.totalraised}}
+        {{ $target := .Site.Params.targettotal }}
+        {{ $pct := div (mul $total 100.0) $target }}
+        <div class="row">
+            <div class="col-12">
+                <h1 class="total">
+                £{{$total}} raised of £{{$target}} ({{$pct}}%)
+                </h1>
+                <div class="progress">
+                    <div class="progress-bar" style="width: {{cond (le $pct 100.0) $pct 100}}%;">
+                        <div class="sr-only">{{$pct}}%</div>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
+    {{end}}
     <div class="row mt-1">
         
         <div class="col-12">

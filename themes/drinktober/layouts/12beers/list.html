@@ -27,7 +27,9 @@
 
                     <!-- Box -->
                         <section class="box feature">
-                            <a href="{{.Permalink}}" class="image featured"><img src='{{ .Params.thumbnail | absURL }}' alt="" /></a>
+                            <a href="{{.Permalink}}" class="image featured">
+                                <img src='{{ .Params.thumbnail | absURL }}' alt="" />
+                            </a>
                             <div class="inner">
                                     <a href="{{.Permalink}}"><header>
                                     <h2>{{.Date.Format "January"}} {{.Date.Day}} {{.Date.Year}}</h2>
