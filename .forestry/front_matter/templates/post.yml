@@ -49,6 +49,7 @@ fields:
     maxSize: 64
   label: Video
 pages:
+- content/12beers/2020/say-merry-christmas-to-my-little-friend.md
 - content/posts/2017/26-pimms.md
 - content/posts/2017/day-1-it-begins.md
 - content/posts/2017/day-10-tequila-time.md
