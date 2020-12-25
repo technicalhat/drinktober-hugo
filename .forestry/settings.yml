@@ -5,7 +5,7 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: content/posts
+  path: content/12beers
   label: Christmas
   create: all
   match: "**/*"
