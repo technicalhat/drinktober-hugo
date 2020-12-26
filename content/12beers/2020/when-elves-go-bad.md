@@ -12,6 +12,8 @@ title = "When elves go bad"
 video = ""
 
 +++
+For the first beer of Drinkmas, the Beerman gave to me, a Bad Elf dry hop ale.
+
 So it looks like I was one present short yesterday, and now I know why! I found this cheeky little character sitting on his shelf... and he's _nicked my beer!_
 
 That's what I call a Bad Elf!
