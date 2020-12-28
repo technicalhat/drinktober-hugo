@@ -58,8 +58,9 @@
                     </section>
                     
                     {{- partial "donate_single.html" . -}} 
-                    <section>
+                    <section class="more-beer">
                         <h3>More beer</h3>
+                        <ul class="style2">
                         {{ range first 5 (where .CurrentSection.Pages "Date" "< " .Date) }}
                         <li><a href="{{ .Permalink }} ">{{.Date.Format "January "}} {{.Date.Day}} - {{ .Title  | markdownify }}
                             {{ if (not (isset .Params "thumbnail")) | or (eq .Params.thumbnail "") }}
@@ -72,6 +73,7 @@
                         </a>
                         </li>
                         {{end}}
+                        </ul>
                     </section>
 
                     </div>
