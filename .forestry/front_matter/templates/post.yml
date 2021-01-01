@@ -49,6 +49,7 @@ fields:
     maxSize: 64
   label: Video
 pages:
+- content/12beers/2020/but-i-d-have-to-charge.md
 - content/12beers/2020/dej-arr-vu.md
 - content/12beers/2020/he-sees-you-when-you-re-sleeping.md
 - content/12beers/2020/jingle.md
