@@ -12,10 +12,10 @@ title = "This is the way"
 video = ""
 
 +++
-For the eighth beer of Drinkmas, the Beerman brought to me : Easy Now Baby NEIPA from Bad Co. Brewing 
+For the seventh beer of Drinkmas, the Beerman brought to me : Easy Now Baby NEIPA from Bad Co. Brewing
 
 It's the eighth day of Drinkmas - New Beer's Eve - and I'm stretching the theme to it's limits in a flagrant case of wanting an excuse to make a costume. Baby IPA, Baby Yoda - close enough, right!
 
-Guest starring Selwyn as the not very convincing Grogu in an undersized cardboard pod. 
+Guest starring Selwyn as the not very convincing Grogu in an undersized cardboard pod.
 
 Happy New Beer everyone, see you in 2021!
