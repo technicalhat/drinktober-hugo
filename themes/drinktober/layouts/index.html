@@ -31,7 +31,8 @@
                     <div class="col-12">
                     <a href="/12beers/2020"><h1>12 beers of Christmas 2020</h1></a>
                 </div>
-                {{ $latest := where (where .Site.RegularPages "Section" "12beers") "Date.Year" "==" 2020  }}
+                {{ $years := (slice 2020 2021) }}
+                {{ $latest := where (where .Site.RegularPages "Section" "12beers") "Date.Year" "in" $years  }}
                 {{if eq (len $latest) 0}}
                 
                 <div class="col-12 ">
