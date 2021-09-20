@@ -1,11 +1,11 @@
 ---
-title: Drinktober 2020 
+title: Drinktober 2021 
 layout: about
-date: 2019-09-28T12:07:00.000+00:00
+date: 2021-09-06T12:07:00.000+00:00
 
 ---
-## It's the 12 beers of Christmas!
+## Welcome back for Drinktober 2021
 
-That's right folks, this Christmas we're back by popular demand to bring you an all new festive drinksperience!
+All new beers! All new antics! Who will survive, and what will be left of them?
 
-This time we're hoping to raise some fat stacks of cash to support [Pride in Hull](https://prideinhull.co.uk/donate/) so get ready to dig deep
+That's right, we're back again for another 31 days of boozy nonsense. Keep watching this space!

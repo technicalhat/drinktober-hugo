@@ -1,16 +1,16 @@
 baseURL = "https://drinktober.co.uk/"
 languageCode = "en-us"
-title = "Drinktober 2020"
+title = "Drinktober 2021"
 theme = "drinktober"
 RelativeURLs=true
 CanonifyURLs=true
 [params]
     keywords = "drinktober, charity, sober october, alcohol, raising money, drink beer every day, soberhero, not so sober hero, being a jerk, cancer support, october, beer, drink all the beer, Macmillan Cancer Support"
-    totalraised = 206.66
-    targettotal = 250
+    totalraised = 0
+    targettotal = 300
     showProgress = false
-    donationsActive = true 
+    donationsActive = false 
     donateLink = "/donate-pride"
     debug = false
     donateCTASingle = "Donate now!"
-    donateTitleSingle = "Donate to Pride in Hull"
+    donateTitleSingle = "Donate to Heidi's Fundraiser!"
