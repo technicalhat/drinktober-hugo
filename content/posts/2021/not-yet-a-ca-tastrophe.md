@@ -6,10 +6,9 @@ beer_name = "Heineken Zero again!"
 beer_photo = "uploads/0e0ae0aa-505b-4583-aaaa-a8661d0947fa.jpeg"
 brewer = ""
 date = 2021-10-01T23:00:00Z
-draft = true
 publishdate = 2021-10-01T23:00:00Z
 thumbnail = ""
-title = "Not yet a Ca-tastrophe 🐈‍⬛ "
+title = "Not yet a Cat-astrophe 🐈‍⬛ "
 video = ""
 
 +++
