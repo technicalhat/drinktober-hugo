@@ -12,8 +12,8 @@ title = "Even more pew!"
 video = ""
 
 +++
-_from the shameless prop reuse department..._
+If there's one thing we love here at Drinktober, it's shamelessly reusing the same prop twice and calling it a storyline :)
 
-I thought I'd finally fought off the invaders, but there was one more that turned out to be too much for me to handle. 
+I thought I'd finally fought off the invaders, but this last one turned out to be too much for me to handle.
 
 Now my only chance to survive is if I can Escape the Mothership!
