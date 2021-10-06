@@ -12,6 +12,6 @@ title = "Big Chopper"
 video = ""
 
 +++
-I'm taking a break for it all in my cabin in the woods, but would you believe it? The ring pulls on all the beer I brought with me have snapped off, leaving me unable to open them!!
+I'm taking a break from it all in my cabin in the woods, but would you believe it? The ring pulls on all the beer I brought with me have snapped off, leaving me unable to open them!!
 
 Luckily I came prepared - I just need to introduce the cans to my _Axe Edge_!
