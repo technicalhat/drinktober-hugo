@@ -6,7 +6,6 @@ beer_name = "Axe Edge"
 beer_photo = "uploads/axe-edge-beer.jpg"
 brewer = "Buxton Brewery"
 date = 2021-10-06T16:30:00Z
-draft = true
 publishdate = 2021-10-06T16:30:00Z
 thumbnail = "uploads/axe-edge-thumbnail.jpg"
 title = "Big Chopper"
