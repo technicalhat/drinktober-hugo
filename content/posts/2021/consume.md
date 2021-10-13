@@ -2,7 +2,7 @@
 abv = "8%"
 antic_photo = "uploads/they-live-antic.jpg"
 author = "Jonathan"
-beer_name = "TheyLive"
+beer_name = "They Live"
 beer_photo = "uploads/they-live-beer.jpg"
 brewer = "Rivington Brewing Co."
 date = 2021-10-13T16:30:00Z
