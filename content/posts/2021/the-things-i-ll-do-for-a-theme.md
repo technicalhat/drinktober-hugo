@@ -12,6 +12,6 @@ title = "The things I'll do for a theme"
 video = ""
 
 +++
-So hear I am wearing a Stormtrooper helmet in a wrestling ring, about to land a flying elbow drop on a moose in a Mountie uniform. 
+So here I am wearing a Stormtrooper helmet in a wrestling ring, about to land a flying elbow drop on a moose in a Mountie uniform.
 
 If that doesn't count as a Top Rope Imperial Canadian Destroyer then I give up!
