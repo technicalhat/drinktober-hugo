@@ -8,7 +8,7 @@ brewer = ""
 date = 2020-10-07T23:00:00Z
 publishdate = 2020-10-07T23:00:00Z
 thumbnail = ""
-title = "I need you to kill me. "
+title = "I need you to kill me "
 video = ""
 
 +++
