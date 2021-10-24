@@ -12,6 +12,6 @@ title = "Carpe Cervisium"
 video = ""
 
 +++
-I'm off on a magical holiday in delightful downtown Ankh Morpork today. Only trouble is, my naughty luggage won't let me have any of the beer I packed!
+I'm off on a magical holiday in delightful downtown Ankh Morpork today. Only trouble is, my naughty luggage won't let me have any of the beer I packed! 
 
 [#GNUTerryPratchett](http://www.gnuterrypratchett.com/ "GNU Terry Pratchett")
