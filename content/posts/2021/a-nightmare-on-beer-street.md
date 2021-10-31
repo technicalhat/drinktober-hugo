@@ -21,3 +21,7 @@ video = ""
 > _Seven, eight, not feeling too great_
 >
 > _Nine, ten, never drink again!_
+
+And that's a wrap for #drinktober 2021 - it's been absolutely amazing! 
+
+If you've enjoyed this nonsense half as much as I have why not click one of the big pink buttons up above and over to the side, and drop a donation in the pot? Every little helps!
