@@ -1,6 +1,6 @@
 baseURL = "https://drinktober.co.uk/"
 languageCode = "en-us"
-title = "Drinktober 2021"
+title = "Drinktober 2022"
 theme = "drinktober"
 RelativeURLs=true
 CanonifyURLs=true

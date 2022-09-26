@@ -1,11 +1,11 @@
 ---
-title: Drinktober 2021 
+title: Drinktober 2022 
 layout: about
-date: 2021-09-06T12:07:00.000+00:00
+date: 2022-09-06T12:07:00.000+00:00
 
 ---
-## Welcome back for Drinktober 2021
+## Welcome back for Drinktober 2022
 
-All new beers! All new antics! Who will survive, and what will be left of them?
+Here we go again for Drinktober year 6!
 
 That's right, we're back again for another 31 days of boozy nonsense. Keep watching this space!
