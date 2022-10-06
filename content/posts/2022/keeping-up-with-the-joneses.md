@@ -12,4 +12,4 @@ title = "Keeping up with the Joneses"
 video = ""
 
 +++
-An archaeological theme for the 6th of Drinktober as Indiana Stout delves back into the hidden mysteries of the past with to uncover the secrets of the Last Brewsade.
+An archaeological theme for the 6th of Drinktober as Indiana Stout delves back into the hidden mysteries of the past to uncover the secrets of the Last Brewsade.
