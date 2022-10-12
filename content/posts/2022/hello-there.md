@@ -18,6 +18,6 @@ video = ""
 >
 > Well of course I know him - he's me!
 
-It's Star Wars Week* here at Drinktober Towers and we're starting off with a visit to everyone's favourite Jedi Pastry Master, _Obi Wan Cannoli!_
+It's Star Wars Week* here at Drinktober Towers and we're starting off with a visit to everyone's favourite Jedi Pastry Master, _Obi Wan Cannoli_
 
 \* Technically, I've only got 4 days of SW content, but Star Wars week sounds better :)
