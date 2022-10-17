@@ -6,7 +6,6 @@ beer_name = "Cranberry juice "
 beer_photo = "uploads/10a036a9-f073-4856-b0a6-bad7e9c7eeab.jpeg"
 brewer = ""
 date = 2022-10-17T21:38:00Z
-draft = true
 publishdate = 2022-10-17T21:42:00Z
 thumbnail = ""
 title = "Wheelie Fancied a Beverage "
