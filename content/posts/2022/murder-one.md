@@ -12,11 +12,16 @@ title = "Murder One"
 video = ""
 
 +++
->Chazz : Who'd win in a wrestling match, Lemmy or God?  
->Chris Moore : Lemmy.  
->\[Rex imitates a game show buzzer\]  
->Chris Moore : ... God?  
->Rex : Wrong, dickhead, trick question. Lemmy *IS* God.  
->-Airheads (1994)
+> Chazz : Who'd win in a wrestling match, Lemmy or God?
+>
+> Chris Moore : Lemmy.
+>
+> \[Rex imitates a game show buzzer\]
+>
+> Chris Moore : ... God?
+>
+> Rex : Wrong, dickhead, trick question. Lemmy _IS_ God.
+>
+> \-Airheads (1994)
 
-Today on Drinktober we pay tribute to the Man himself, hard rocking, hard drinking legend Lemmy Kilmister, the unstoppable force behind the greatest band of all time : Motörhead!
+Today on Drinktober we pay tribute to the Man himself, hard rocking, hard drinking legend Lemmy Kilmister
