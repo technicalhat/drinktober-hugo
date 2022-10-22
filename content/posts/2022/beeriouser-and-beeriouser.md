@@ -12,8 +12,8 @@ title = "Beeriouser and beeriouser"
 video = ""
 
 +++
-Well it's been a strange day. 
+Well it's been a strange day.
 
-After seeing this weird white rabbit in a waistcoat out in the bottom field I followed him down a hole and now I'm trapped in a strange psychedelic land with no way home. 
+After seeing this weird white rabbit in a waistcoat out in the bottom field I followed him down a hole and now I'm trapped in a strange psychedelic land with no way home.
 
-Still, at least I've found something to drink!
+Still, at least I've found something to drink! 
