@@ -72,12 +72,13 @@
                         <ul class="style2">
                             {{ range first 5 (where .CurrentSection.Pages "Date" "< " .Date) }}
                             <li><a href="{{ .Permalink }} ">{{.Date.Format "January "}} {{.Date.Day}} - {{ .Title  | markdownify }}
+                                {{ $thumbnail := cond (eq .Params.author "Jonathan") "/jonathan-face.jpg" "/heidi-face.jpg"}}
                                 {{ if (not (isset .Params "thumbnail")) | or (eq .Params.thumbnail "") }}
-                                <img src='/images/christmas_thumbnail.jpg' title="{{ .Title  | markdownify }}" />
+                                <img src="{{$thumbnail}}" title="{{ .Title  | markdownify }}" />
+                                <!-- <img src='/images/christmas_thumbnail.jpg' title="{{ .Title  | markdownify }}" /> -->
                                 {{else}}
                                 <img src='{{ .Params.thumbnail | absURL }}' title="{{ .Title  | markdownify }}" />
                                 {{end}}
-                                {{ $thumbnail := cond (eq .Params.author "Jonathan") "/jonathan-face.jpg" "/heidi-face.jpg"}}
                                 <div class="feature_thumb"><img src="{{$thumbnail}}" title="{{ .Title  | markdownify }}"/></div>
                             </a>
                             </li>
