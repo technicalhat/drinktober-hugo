@@ -5,13 +5,14 @@ author = "Jonathan"
 beer_name = "Roadkill"
 beer_photo = "uploads/03-roadkill-beer.jpg"
 brewer = "Mad Squirrel"
-date = 2020-10-03T11:00:00Z
-publishdate = 2020-10-03T11:00:00Z
+date = 2020-10-03T11:00:00.000Z
+publishdate = 2020-10-03T11:00:00.000Z
 thumbnail = "uploads/03-roadkill-thumbnail.jpg"
 title = "What a lovely day!"
 video = ""
-
+_template = "post"
 +++
+
 > Beer. Beer never changes. 
 >
 > When the old world fell, only a few survived. Roaming the blacktop between the remnants of the cities, scavenging for the last remaining booze of a lost civilisation.

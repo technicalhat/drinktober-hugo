@@ -5,13 +5,14 @@ author = "Jonathan"
 beer_name = "Space Hardware"
 beer_photo = "uploads/8-space-hardware-beer.jpg"
 brewer = "Arbor Ales"
-date = 2020-10-09T11:00:00Z
-publishdate = 2020-10-09T11:00:00Z
+date = 2020-10-09T11:00:00.000Z
+publishdate = 2020-10-09T11:00:00.000Z
 thumbnail = "uploads/8-space-hardware-thumbnail.jpg"
 title = "Ich habe Space Dementia"
 video = ""
-
+_template = "post"
 +++
+
 > What's that there? I don't care
 >
 > Sat alone, with no cards, playing solitaire

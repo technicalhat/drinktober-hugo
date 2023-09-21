@@ -5,13 +5,14 @@ author = "Jonathan"
 beer_name = "Nomader Weisse"
 beer_photo = "uploads/26-evil-twin-beer.jpg"
 brewer = "Evil Twin"
-date = 2020-10-26T12:00:00Z
-publishdate = 2020-10-26T12:00:00Z
+date = 2020-10-26T12:00:00.000Z
+publishdate = 2020-10-26T12:00:00.000Z
 thumbnail = "uploads/26-evil-twin-thumb.jpg"
 title = "Little goody two-shoes!"
 video = ""
-
+_template = "post"
 +++
+
 **What has Science wrought?** 
 
 The synaptic transmitter was more successful than I could have imagined, but now I'm face to face with my Evil Twin! But which one is Good Jonny, and which is Bad Jonny?

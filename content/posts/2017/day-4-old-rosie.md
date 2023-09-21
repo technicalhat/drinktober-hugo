@@ -10,6 +10,7 @@ thumbnail = "uploads/4-old-rosie-thumbnail.jpg"
 title = "Day 4 - Old Rosie"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 Drop of cider for the 4th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?epa=HASHTAG) - cheers!

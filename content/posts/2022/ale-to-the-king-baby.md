@@ -5,13 +5,14 @@ author = "Jonathan"
 beer_name = "Juice Campbell vs Army of Dankess"
 beer_photo = "uploads/juice_campbell_beer_300.jpg"
 brewer = "Brew York"
-date = 2022-10-31T17:00:00Z
-publishdate = 2022-10-01T16:00:00Z
+date = 2022-10-31T17:00:00.000Z
+publishdate = 2022-10-01T16:00:00.000Z
 thumbnail = "uploads/juice_campbell_thumbnail-1.jpg"
 title = "Ale to the King, baby!"
 video = ""
-
+_template = "post"
 +++
+
 Alright you primitive screwheads, listen up!
 
 This is the last post of Drinktober 2022, and to help send things off in style I've managed to recruit my awesome co-host to join me for a finale of truly epic proportions!

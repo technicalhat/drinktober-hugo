@@ -10,6 +10,7 @@ thumbnail = "uploads/11-roadcrew-thumbnail.jpg"
 title = "Day 11 - We are the Road Crew"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 11th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG) and I'm busting out an old favourite - Motörhead Röad Crew \\m/

@@ -4,12 +4,13 @@ title = "Drinktober 2022"
 theme = "drinktober"
 RelativeURLs=true
 CanonifyURLs=true
+timeZone="Europe/London"
 [params]
     keywords = "drinktober, charity, sober october, alcohol, raising money, drink beer every day, soberhero, not so sober hero, being a jerk, cancer support, october, beer, drink all the beer, Macmillan Cancer Support"
-    totalraised = 245
-    targettotal = 200
-    showProgress = false
-    donationsActive = false 
+    totalraised = 0
+    targettotal = 300
+    showProgress = true
+    donationsActive = true 
     donateLink = "https://www.gosober.org.uk/users/heidi-victoria-ireland"
     debug = false
     donateCTASingle = "Donate now!"

@@ -5,13 +5,14 @@ author = "Jonathan"
 beer_name = "Evil Elf"
 beer_photo = "uploads/evil-elf_beer.jpg"
 brewer = "Rudgate"
-date = 2020-12-28T17:00:00Z
-publishdate = 2020-12-28T17:00:00Z
+date = 2020-12-28T17:00:00.000Z
+publishdate = 2020-12-28T17:00:00.000Z
 thumbnail = "uploads/evil-elf_thumb.jpg"
 title = "He sees you when you're sleeping.."
 video = ""
-
+_template = "post"
 +++
+
 For the fourth beer of Drinkmas, the Beerman gave to me - Evil Elf biscuity ale, from Rudgate.
 
 > He sees you when you're sleeping

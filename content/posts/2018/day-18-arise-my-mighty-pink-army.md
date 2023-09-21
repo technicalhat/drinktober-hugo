@@ -10,8 +10,9 @@ thumbnail = "uploads/18-joes-draft-thumbnail.jpg"
 title = "Day 18 - Arise, my mighty pink army!"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 It's the 18th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG) and I'm having a pint of Joe's Draft ale before going to see the awesome Evil Scarecrow in York \\m/
 
 Crabulon! Crabulon! Crabulon!

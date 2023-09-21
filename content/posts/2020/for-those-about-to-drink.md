@@ -5,13 +5,14 @@ author = "Jonathan"
 beer_name = "Shoot to thrill"
 beer_photo = "uploads/11-shoot-to-thrill-beer.jpg"
 brewer = "Wilde Child"
-date = 2020-10-11T11:00:00Z
-publishdate = 2020-10-11T11:00:00Z
+date = 2020-10-11T11:00:00.000Z
+publishdate = 2020-10-11T11:00:00.000Z
 thumbnail = "uploads/11-shoot-to-thrill-thumb.jpg"
 title = "For those about to drink"
 video = ""
-
+_template = "post"
 +++
+
 > 'Cause I shoot to thrill, and I'm ready to kill
 >
 > I can't get enough, I can't get my fill

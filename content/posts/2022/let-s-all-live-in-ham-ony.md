@@ -5,13 +5,14 @@ author = "Heidi"
 beer_name = "Gammon"
 beer_photo = "uploads/bee22d3f-a904-4aee-b759-7209f49ee473.jpeg"
 brewer = ""
-date = 2022-10-23T21:00:00Z
-publishdate = 2022-10-23T21:00:00Z
+date = 2022-10-23T21:00:00.000Z
+publishdate = 2022-10-23T21:00:00.000Z
 thumbnail = ""
 title = "Let’s all live in ham-ony"
 video = ""
-
+_template = "post"
 +++
+
 Ordinarily I would be full of wine about now and shouting at the TV, but after a lazy napping day, all I’ve done is drink water (I’m now so hydrated I am part dolphin) and make this fantastic roast. 
 
 Yesterday myself and the esteemed Jonathan had some fun and high jinx, with some images that will _blow your mind!_ Plans are already underway for next year….. 

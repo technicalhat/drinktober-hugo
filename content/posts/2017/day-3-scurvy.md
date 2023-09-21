@@ -10,6 +10,7 @@ thumbnail = "uploads/3-rum-thumbnail.jpg"
 title = "Day 3 - Scurvy"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 For the 3rd of [#Drinktober](https://www.facebook.com/hashtag/drinktober?epa=HASHTAG), I've got a bit of a pirate theme going, with Captain Morgan and coke. Yarr!

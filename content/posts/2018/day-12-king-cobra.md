@@ -10,6 +10,7 @@ thumbnail = "uploads/12-king-cobra-thumbnail.jpg"
 title = "Day 12 - King Cobra"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 12th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG) and it's curry night so I'm having a King Cobra. Hail to the King, baby!

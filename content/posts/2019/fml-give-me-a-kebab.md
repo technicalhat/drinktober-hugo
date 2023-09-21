@@ -10,6 +10,7 @@ thumbnail = ""
 title = "FML give me a kebab"
 video = ""
 author = "Heidi"
-
+_template = "post"
 +++
+
 Well today has kicked my arse. I’ve felt absolutely **crap** all day: not sure if it’s lack of meat or caffeine. Shit day, sat in a meeting until 10.30 surrounded by wine and burgers.... kill me now. I also had my first Ribena. What a load of shit. 

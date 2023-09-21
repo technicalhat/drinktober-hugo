@@ -10,6 +10,7 @@ thumbnail = "uploads/5-vodka-thumbnail.jpg"
 title = "Day 5 - Vodka and coke"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 It's the 5th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?epa=HASHTAG), and today I'm having vodka and coke.

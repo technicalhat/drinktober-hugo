@@ -22,7 +22,7 @@
                             <a href="{{.Permalink}}" class="image featured"><img src='{{ .Params.thumbnail | absURL }}' alt="" /></a>
                             <div class="inner">
                                     <a href="{{.Permalink}}"><header>
-                                    <h2>{{.Date.Format "January"}} {{.Date.Day}} {{.Date.Year}}</h2>
+                                    <h2>{{.Date.Local.Format "January"}} {{.Date.Local.Day}} {{.Date.Local.Year}}</h2>
                                     <p>{{ .Title }}</p>
                                 </header></a>
                             </div>

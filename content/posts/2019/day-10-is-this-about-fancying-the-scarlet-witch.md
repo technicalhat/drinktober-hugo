@@ -10,6 +10,7 @@ thumbnail = "uploads/10-Wanderlust-thumbnail.jpg"
 title = "Day 10 - Is this about fancying the Scarlet Witch?"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 10 days into [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG) and I've been overcome with Wanderlust

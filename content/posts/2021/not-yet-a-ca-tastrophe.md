@@ -5,13 +5,14 @@ author = "Heidi"
 beer_name = "Heineken Zero again!"
 beer_photo = "uploads/0e0ae0aa-505b-4583-aaaa-a8661d0947fa.jpeg"
 brewer = ""
-date = 2021-10-01T23:00:00Z
-publishdate = 2021-10-01T23:00:00Z
+date = 2021-10-01T23:00:00.000Z
+publishdate = 2021-10-01T23:00:00.000Z
 thumbnail = ""
 title = "Not yet a Cat-astrophe 🐈‍⬛ "
 video = ""
-
+_template = "post"
 +++
+
 Day 2! 💪
 
 Fiyero (AKA Mr Fifi) is enthralled by this new beer which doesnt make mother fall over.

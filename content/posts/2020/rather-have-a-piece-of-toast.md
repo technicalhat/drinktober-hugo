@@ -5,13 +5,14 @@ author = "Jonathan"
 beer_name = "Ghost Porter"
 beer_photo = "uploads/26-ghost-porter-beer.jpg"
 brewer = "Yorkshire Heart"
-date = 2020-10-27T12:00:00Z
-publishdate = 2020-10-27T12:00:00Z
+date = 2020-10-27T12:00:00.000Z
+publishdate = 2020-10-27T12:00:00.000Z
 thumbnail = "uploads/26-ghost-porter-thumb.jpg"
 title = "Rather have a piece of toast"
 video = ""
-
+_template = "post"
 +++
+
 A terrifying presence arises as the spooky shenanigans continue.
 
 I'm being haunted by a spooky ghost - and he's nicked my beer!

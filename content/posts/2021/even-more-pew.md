@@ -5,13 +5,14 @@ author = "Jonathan"
 beer_name = "Escape the Mothership"
 beer_photo = "uploads/escape-the-mothership-beer.jpg"
 brewer = "Poppels"
-date = 2021-10-05T16:30:00Z
-publishdate = 2021-10-05T16:30:00Z
+date = 2021-10-05T16:30:00.000Z
+publishdate = 2021-10-05T16:30:00.000Z
 thumbnail = "uploads/escape-the-mothership-thumbnail.jpg"
 title = "Even more pew!"
 video = ""
-
+_template = "post"
 +++
+
 If there's one thing we love here at Drinktober, it's shamelessly reusing the same prop twice and calling it a storyline :)
 
 I thought I'd finally fought off the invaders, but this last one turned out to be too much for me to handle.

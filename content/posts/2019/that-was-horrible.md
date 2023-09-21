@@ -10,8 +10,9 @@ thumbnail = ""
 title = "Foam shrimp and tramps shoes. "
 video = ""
 author = "Heidi"
-
+_template = "post"
 +++
+
 Today I had a late meeting again, so popped to the pub for the ultimate test. I was gaggingggggg for a drink. Any drink. Wine. Gin. Terps. I fancied one. 
 
 The batman (I meant barman but autocorrect knows best)  recommended an _Alcohol Free_ Kopperberg. “It’s just like the real thing! You can’t even tell the difference!” I was assured. Not a cider drinker but I thought give it a bash. 

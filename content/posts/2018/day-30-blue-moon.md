@@ -10,8 +10,9 @@ thumbnail = "uploads/30-blue-moon-thumbnail.jpg"
 title = "Day 30 - Blue moon"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 It's the 30th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG)
 
 After escaping the Medusa's petrifying gaze I thought I was safe, until the rising of the Blue Moon unleashed the beast within - transforming me into the dreaded Blue Wolfman!

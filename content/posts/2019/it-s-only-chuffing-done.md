@@ -4,14 +4,15 @@ antic_photo = ""
 beer_name = "Prosecco"
 beer_photo = "uploads/image.jpg"
 brewer = ""
-date = 2019-11-01T01:00:00Z
+date = 2019-11-01T01:00:00.000Z
 publishdate = ""
 thumbnail = ""
 title = "It’s only chuffing DONE! "
 video = ""
 author = "Heidi"
-
+_template = "post"
 +++
+
 Well, it’s done!! And what a bloody month. Here’s what I learned:
 
 * I don’t need alcohol, but I DO have the most stressful life and I don’t take enough time out. The past 2 weeks at work were hard. Not having a drink made me realise my job can be emotionally draining. I have little time for myself and I take on too much without thinking about unwinding in a better way.

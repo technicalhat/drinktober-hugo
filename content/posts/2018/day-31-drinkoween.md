@@ -10,8 +10,9 @@ thumbnail = "uploads/31-hobgoblin-thumbnail.jpg"
 title = "Day 31 - Drinkoween!"
 video = "uploads/Day 31 - Hobgoblin.mp4"
 author = "Jonathan"
-
+_template = "post"
 +++
+
 It's the 31st of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG) - [#Drinkoween](https://www.facebook.com/hashtag/drinkoween?source=feed_text&epa=HASHTAG)!
 
 So there was really no other option than to assemble a bunch of my spookiest stuff and finish off the month with the "Unofficial Beer Of Halloween" - Hobgoblin!

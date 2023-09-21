@@ -5,13 +5,14 @@ author = "Jonathan"
 beer_name = "Nightmare"
 beer_photo = "uploads/nightmare-beer.jpg"
 brewer = "Hambleton Brewery"
-date = 2021-10-31T17:00:00Z
-publishdate = 2021-10-31T17:00:00Z
+date = 2021-10-31T17:00:00.000Z
+publishdate = 2021-10-31T17:00:00.000Z
 thumbnail = "uploads/nightmare-thumbnail.jpg"
 title = "A Nightmare on Beer Street"
 video = ""
-
+_template = "post"
 +++
+
 > _One, two, Freddy's drinking a brew_
 >
 > _Three, four, now he's back for more..._

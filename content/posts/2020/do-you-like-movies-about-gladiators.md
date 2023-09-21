@@ -5,13 +5,14 @@ author = "Jonathan"
 beer_name = "Citrus Maxima"
 beer_photo = "uploads/08-citrus-maxima-beer.jpg"
 brewer = "Arbor Ales"
-date = 2020-10-10T11:00:00Z
-publishdate = 2020-10-10T11:00:00Z
+date = 2020-10-10T11:00:00.000Z
+publishdate = 2020-10-10T11:00:00.000Z
 thumbnail = "uploads/08-citrus-maxima-thumb.jpg"
 title = "Do you like movies about gladiators?"
 video = ""
-
+_template = "post"
 +++
+
 > My name is Citrus Maxima. Commander of the armies of the Hops. General of the zesty Legions, loyal servant of the brew Emperor.
 >
 > 

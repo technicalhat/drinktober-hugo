@@ -10,6 +10,7 @@ thumbnail = "uploads/18-gilde-thumbnail.jpg"
 title = "Day 18 - Keep taking the Pils"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 Yep, Vikki was working at [Erofame ](https://www.erofame.eu/)again last week, so I've got a nice drop of Gilde Pilsener for the 18th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG), all the way from Hannover.

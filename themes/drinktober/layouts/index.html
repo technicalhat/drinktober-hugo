@@ -12,7 +12,7 @@
 
                         <!-- Content -->
                             <div id="content">
-                                <section class="last">
+                                <section class="last homepage-header">
                                     {{.Content }} 
                                     
                                 </section>
@@ -29,6 +29,35 @@
            
             <section class="year-row row">
                 <div class="col-12">
+                    <a href="/posts/2023"><h1>Drinktober 2023</h1></a>
+                </div>
+            {{range first 3 (where (where .Site.RegularPages "Section" "posts") "Date.Year" "==" 2023 )}}
+            
+            <div class="col-4 col-12-medium">
+
+                <!-- Box -->
+                    <section class="box feature">
+                        <a href="{{.Permalink}}" class="image featured"><img src='{{ .Params.thumbnail | absURL }}' alt="" /></a>
+                        <div class="inner">
+                                <a href="{{.Permalink}}"><header>
+                                <h2>{{.Date.Local.Format "January"}} {{.Date.Local.Day}} {{.Date.Local.Year}}</h2>
+                                <p>{{ .Title }}</p>
+                            </header></a>
+                        </div>
+                        {{if .Params.author}}
+                        {{ $thumbnail := cond (eq .Params.author "Jonathan") "/jonathan-face.jpg" "/heidi-face.jpg"}}
+                        <div class="feature_thumb"><img src="{{$thumbnail}}"/></div>
+                        {{end}}
+                    </section>
+
+            </div>
+            {{end}}
+            <div class="col-12">
+                <a class="btn btn-primary btn-lg" href="/posts/2022">all of Drinktober 2023</a>
+            </div>
+
+            <section class="year-row row">
+                <div class="col-12">
                     <a href="/posts/2022"><h1>Drinktober 2022</h1></a>
                 </div>
             {{range first 3 (where (where .Site.RegularPages "Section" "posts") "Date.Year" "==" 2022 )}}
@@ -40,7 +69,7 @@
                         <a href="{{.Permalink}}" class="image featured"><img src='{{ .Params.thumbnail | absURL }}' alt="" /></a>
                         <div class="inner">
                                 <a href="{{.Permalink}}"><header>
-                                <h2>{{.Date.Format "January"}} {{.Date.Day}} {{.Date.Year}}</h2>
+                                <h2>{{.Date.Local.Format "January"}} {{.Date.Local.Day}} {{.Date.Local.Year}}</h2>
                                 <p>{{ .Title }}</p>
                             </header></a>
                         </div>
@@ -79,7 +108,7 @@
                             <a href="{{.Permalink}}" class="image featured"><img src='{{ .Params.thumbnail | absURL }}' alt="" /></a>
                             <div class="inner">
                                     <a href="{{.Permalink}}"><header>
-                                    <h2>{{.Date.Format "January"}} {{.Date.Day}} {{.Date.Year}}</h2>
+                                    <h2>{{.Date.Local.Format "January"}} {{.Date.Local.Day}} {{.Date.Local.Year}}</h2>
                                     <p>{{ .Title }}</p>
                                 </header></a>
                             </div>
@@ -117,7 +146,7 @@
                                     <a href="{{.Permalink}}" class="image featured"><img src='{{ .Params.thumbnail | absURL }}' alt="" /></a>
                                     <div class="inner">
                                             <a href="{{.Permalink}}"><header>
-                                            <h2>{{.Date.Format "January"}} {{.Date.Day}} {{.Date.Year}}</h2>
+                                            <h2>{{.Date.Local.Format "January"}} {{.Date.Local.Day}} {{.Date.Local.Year}}</h2>
                                             <p>{{ .Title }}</p>
                                         </header></a>
                                     </div>

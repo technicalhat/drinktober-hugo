@@ -10,8 +10,9 @@ thumbnail = "uploads/17-queen-bee-thumbnail.jpg"
 title = "Day 17 - Bees!"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 For [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG) the 17th I'm having a Queen Bee honey ale.
 
 I'd be some kind of body-snatched doppelganger if I didn't say that it's the bee's knees and it's given me a bit of a buzz :)

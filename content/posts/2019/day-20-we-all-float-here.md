@@ -10,8 +10,9 @@ thumbnail = "uploads/20-Levitate-thumbnail.jpg"
 title = "Day 20 - We all float here"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 The strangest thing happened for the 20th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG).
 
 Just a couple of sips of my beer and I found myself free from the shackles of gravity and beginning to _Levitate_!

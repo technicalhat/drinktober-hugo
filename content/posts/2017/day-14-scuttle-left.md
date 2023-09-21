@@ -10,6 +10,7 @@ thumbnail = "uploads/14-crabbies-thumbnail.jpg"
 title = "Day 14 - Scuttle left!"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 Alcoholic ginger beer for the 14th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?epa=HASHTAG).

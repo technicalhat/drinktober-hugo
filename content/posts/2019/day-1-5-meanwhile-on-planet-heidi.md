@@ -10,6 +10,7 @@ thumbnail = "uploads/1-tragedy-small.jpg"
 title = "Day 1.5 - Meanwhile on Planet Heidi"
 video = ""
 author = "Heidi"
-
+_template = "post"
 +++
+
 kill me now

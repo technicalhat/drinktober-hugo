@@ -10,6 +10,7 @@ thumbnail = "uploads/16-Gamma-Ray-thumbnail.jpg"
 title = "Day 16 - SMASH!"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 Disaster strikes on the 16th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG), as Gamma Ray exposure unleashes my infinite rage and I'm transformed into the Incredible Drunk Hulk, rampaging across the city in search of more beer!

@@ -10,6 +10,7 @@ thumbnail = "uploads/10-dark-matters-thumbnail.jpg"
 title = "Day 10 - Dark matters"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 10th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG), and tonight I'm having a Dark Matter coffee porter. Nice beer, kind of chocolatey ! :)

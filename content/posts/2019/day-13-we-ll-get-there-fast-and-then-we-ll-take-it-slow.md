@@ -10,8 +10,9 @@ thumbnail = "uploads/13-Kokomo-thumbnail.jpg"
 title = "Day 13 - We'll get there fast and then we'll take it slow"
 video = "uploads/kokomo_tall.mp4"
 author = "Jonathan"
-
+_template = "post"
 +++
+
 After I made it back from the depths of space, I needed a nice holiday.
 
 Here I am, relaxing in a tropical paradise with a can of Kokomo passion fruit and grapefruit pale ale :)

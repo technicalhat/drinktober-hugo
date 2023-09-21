@@ -4,14 +4,16 @@ antic_photo = "uploads/31-666-antic.jpg"
 beer_name = "Drink Beer, Hail Satan!"
 beer_photo = "uploads/31-666-thumbnail.jpg"
 brewer = "Black Iris Brewery"
-date = 2019-10-31T01:00:00Z
-publishdate = 2019-10-31T01:00:00Z
+date = 2019-10-31T01:00:00.000Z
+publishdate = 2019-10-31T01:00:00.000Z
 thumbnail = "uploads/31-666-thumbnail-1.jpg"
 title = "Day 31 - Drinkoween!"
 video = "uploads/satan2.mp4"
 author = "Jonathan"
-aliases = ["/posts/day-31-drinkoween/"]
+aliases = [ "/posts/day-31-drinkoween/" ]
+_template = "post"
 +++
+
 > Gee, Jonny, what are we going to do tonight?
 >
 > Same thing we do every night - D̗͖͖͓̹͎̃ͦ̒ͨ̅͊̀͢ͅR̵͂̚͏͕̠̘I̲̰͉̊̑͐͆ͧ͐̍̉̽N̶̼̻̩ͭ́ͨͭ̔͑̽͢͞K̴̶̼̰͓͓̲͗̆̈́ͫ̉̌͆͢ ͈͈͓͙̉ͭ̂͒͝B̛̬̪͔̻̖̃̑ͭ̀ͪͯͪͦ͢͞E̷̲̘̞͋ͩ̀̕E̵̓̎ͭ̓̈́̐̾ͫ҉̛̭͙̩͍R̮͈̎́̓̉ͪ ͈̪̬̘͎̣̬̩͆̿ͪͧ͌̉̚͞A̖̖ͨN̸͉̺͕̥̫ͬ̄́̐̏ͪD̺̞̪̩͍ͦͬ̀ ̨̡͈̲͈̤̞͛͋ͥ̍H̻̪̮̪̞̹͇̾ͮ̂͜͠ͅA̸̧̙̮̥̟̭̔̆̽̊̈́ͅỈ̧̦͕͇͕̄̋̿ͮͨ̀L̠̹̣̗̰̟͉͐̂̓͑͜͠ ̨̠͈͇̫͈̼̗ͯ̓́S̷̼̯̱ͥͥ̄ͩͤ̔̌ͅA͂͐ͬ͊ͩ͂̚͠҉͔̜͕͔̻̝͍͖Ṭ̥̒̆̕A̭̞̣̎̉͋ͥͥ̄͌̑̓͞N̘̮̱̖̖̪̝͚̯ͩ̋̐͐͑ͥ̆ͫ͢͜!ͦ́̋̾҉̴͓

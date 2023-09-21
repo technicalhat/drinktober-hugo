@@ -5,13 +5,14 @@ author = "Jonathan"
 beer_name = "We Are Ghosts On The Moon"
 beer_photo = "uploads/we-are-ghosts-on-the-moon-beer.jpg"
 brewer = "Left Handed Giant Brewing Co"
-date = 2021-10-18T16:30:00Z
-publishdate = 2021-10-18T16:30:00Z
+date = 2021-10-18T16:30:00.000Z
+publishdate = 2021-10-18T16:30:00.000Z
 thumbnail = "uploads/we-are-ghosts-on-the-moon-thumbnail.jpg"
 title = "Moon's haunted"
 video = ""
-
+_template = "post"
 +++
+
 > _There's ghosts on Button Moon_
 >
 > _They're haunting Mr. Spoon_

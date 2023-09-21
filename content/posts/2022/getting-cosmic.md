@@ -5,13 +5,14 @@ author = "Jonathan"
 beer_name = "A Herald of Change And Disruption"
 beer_photo = "uploads/herald_beer_300.jpg"
 brewer = "Cloudwater"
-date = 2022-10-08T15:00:00Z
-publishdate = 2022-10-08T15:00:00Z
+date = 2022-10-08T15:00:00.000Z
+publishdate = 2022-10-08T15:00:00.000Z
 thumbnail = "uploads/herald_thumbnail.jpg"
 title = "Getting cosmic"
 video = ""
-
+_template = "post"
 +++
+
 A mysterious figure has been spotted in the skies! Flying through the atmosphere, wielding the Power Cosmic! 
 
 Behold the mighty Silver Drinker! Herald of Galactus: the devourer of worlds!

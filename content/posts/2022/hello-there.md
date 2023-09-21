@@ -5,13 +5,14 @@ author = "Jonathan"
 beer_name = "Obi Wan Cannoli"
 beer_photo = "uploads/obi_wan_beer_300.jpg"
 brewer = "Brew York"
-date = 2022-10-12T15:00:00Z
-publishdate = 2022-10-12T15:00:00Z
+date = 2022-10-12T15:00:00.000Z
+publishdate = 2022-10-12T15:00:00.000Z
 thumbnail = "uploads/obi_wan_thumbnail.jpg"
 title = "Hello there"
 video = ""
-
+_template = "post"
 +++
+
 > Come in, youg padawan. Enjoy one of my delicious Italian pastries!
 >
 > Obi Wan Cannoli? Now that's a name I haven't heard in a long time...

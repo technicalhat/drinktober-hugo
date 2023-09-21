@@ -10,6 +10,7 @@ thumbnail = "uploads/5-modelo-thumbnail.jpg"
 title = "Day 5 - Modelo (and a burrito)"
 video = ""
 author = "Jonathan"
- 
+_template = "post"
 +++
+
 I'm away for the weekend so starting early for the 5th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG) with a Modelo and a burrito :)

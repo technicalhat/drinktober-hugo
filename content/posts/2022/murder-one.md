@@ -5,13 +5,14 @@ author = "Jonathan"
 beer_name = "Lemmy"
 beer_photo = "uploads/lemmy_beer_300.jpg"
 brewer = "Black Iris"
-date = 2022-10-19T15:00:00Z
-publishdate = 2022-10-19T15:00:00Z
+date = 2022-10-19T15:00:00.000Z
+publishdate = 2022-10-19T15:00:00.000Z
 thumbnail = "uploads/lemmy_thumbnail.jpg"
 title = "Murder One"
 video = ""
-
+_template = "post"
 +++
+
 > Chazz : Who'd win in a wrestling match, Lemmy or God?  
 > Chris Moore : Lemmy.  
 > \[Rex imitates a game show buzzer\]  

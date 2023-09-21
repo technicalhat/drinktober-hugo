@@ -5,13 +5,14 @@ author = "Jonathan"
 beer_name = "Trooper"
 beer_photo = "uploads/trooper_beer_300.jpg"
 brewer = "Robinsons"
-date = 2022-10-13T15:00:00Z
-publishdate = 2022-10-13T15:00:00Z
+date = 2022-10-13T15:00:00.000Z
+publishdate = 2022-10-13T15:00:00.000Z
 thumbnail = "uploads/trooper_thumbnail.jpg"
 title = "Fear of the dark (side)"
 video = ""
-
+_template = "post"
 +++
+
 > You take my life but I'll take yours too
 >
 > 

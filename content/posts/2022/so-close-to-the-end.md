@@ -5,13 +5,14 @@ author = "Heidi"
 beer_name = "Pepsi (which is awful) "
 beer_photo = "uploads/d05c1fc1-f1ac-4c63-b278-250ab6e62282.jpeg"
 brewer = ""
-date = 2022-10-28T19:00:00Z
-publishdate = 2022-10-28T19:00:00Z
+date = 2022-10-28T19:00:00.000Z
+publishdate = 2022-10-28T19:00:00.000Z
 thumbnail = ""
 title = "So close to the end! "
 video = ""
-
+_template = "post"
 +++
+
 Well that was a _WEEK_ of work being ridiculous, followed by a cheeky sickness bug which killed me off for a day or so. So I’m the spirit of catching you all up, here are the high points of my #whatidowithoutthepub week: 
 
 * Apparently I have been at my job 15 years last week, so if anyone needs me I will be sobbing in the cupboard with my arthritis riddled hip. 

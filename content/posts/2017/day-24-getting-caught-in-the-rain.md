@@ -10,6 +10,7 @@ thumbnail = "uploads/24-pina-colada-thumbnail.jpg"
 title = "Day 24 - Getting caught in the rain"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 24th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?epa=HASHTAG) - tonight I've got some kind of ready-mixed pina colada I found at Sainsbury's. Very tropical

@@ -10,5 +10,6 @@ thumbnail = "uploads/2-tragedy-small.jpg"
 title = "Day 2.5 - This is fucking Quorn"
 video = ""
 author = "Heidi"
-
+_template = "post"
 +++
+

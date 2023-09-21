@@ -5,13 +5,14 @@ author = "Jonathan"
 beer_name = "Twisted Transistor"
 beer_photo = "uploads/twisted_transistor_beer_300.jpg"
 brewer = "Brew York"
-date = 2022-10-18T15:00:00Z
-publishdate = 2022-10-18T15:00:00Z
+date = 2022-10-18T15:00:00.000Z
+publishdate = 2022-10-18T15:00:00.000Z
 thumbnail = "uploads/twisted_transistor_thumbnail.jpg"
 title = "Very metal"
 video = ""
-
+_template = "post"
 +++
+
 ```
 +++ SnidertronOs:v4000 Core AI module +++
 function HandleRequest(request){

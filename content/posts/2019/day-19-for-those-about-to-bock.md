@@ -10,8 +10,9 @@ thumbnail = "uploads/19-bocktoberfest-thumbnail.jpg"
 title = "Day 19 - For those about to Bock"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 Day 19 of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG) comes to you all the way from Bocktoberfest. 
 
 Prost!

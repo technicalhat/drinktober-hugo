@@ -10,8 +10,9 @@ thumbnail = "uploads/1-dirty-deeds-thumbnail.jpg"
 title = "Day 1 - Dirt Cheap"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 Contracts...
 
 Neckties!

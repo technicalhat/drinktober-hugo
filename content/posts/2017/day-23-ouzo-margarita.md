@@ -10,6 +10,7 @@ thumbnail = "uploads/23-ouzo-margarita-thumbnail.jpg"
 title = "Day 23 - Ouzo margarita"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 23rd of [#Drinktober](https://www.facebook.com/hashtag/drinktober?epa=HASHTAG) - random concoction week continues with this Ouzo margarita. It kind of works :)

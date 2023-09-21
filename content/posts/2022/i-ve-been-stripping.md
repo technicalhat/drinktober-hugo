@@ -5,13 +5,14 @@ author = "Heidi"
 beer_name = ""
 beer_photo = "uploads/3c09a5e3-6dea-4a2a-87fd-06fe0a69bf52.jpeg"
 brewer = ""
-date = 2022-10-30T19:00:00Z
-publishdate = 2022-10-30T19:00:00Z
+date = 2022-10-30T19:00:00.000Z
+publishdate = 2022-10-30T19:00:00.000Z
 thumbnail = ""
 title = "I’ve been stripping "
 video = ""
-
+_template = "post"
 +++
+
 Can you believe how close we are?!! At this point in the game, of course I have resorted to stripping. 
 
 In this weekends “#whatidowithoutthepub” I’ll admit I’ve felt a bit down and the FOMO is real. Seeing all my friends having Halloween fun made me feel old and dull, so I impulsively decided to destroy my house and start stripping the porch to pieces.   

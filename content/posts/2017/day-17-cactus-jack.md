@@ -10,6 +10,7 @@ thumbnail = "uploads/17-cactus-jack-thumbnail.jpg"
 title = "Day 17 - Cactus Jack"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 17th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?epa=HASHTAG), and tonight it's Cactus Jack's Blackjack flavour schnapps. You probably wouldn't like this one either :)

@@ -10,6 +10,7 @@ thumbnail = "uploads/29-Graveyard-Shift-thumbnail.jpg"
 title = "Day 29 - When there's no more room in hell"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 The horror continues on the 29th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG) as the dead rise from their graves to walk the earth in a never-ending quest for beer. Beware, the terrors of the Graveyard Shift!

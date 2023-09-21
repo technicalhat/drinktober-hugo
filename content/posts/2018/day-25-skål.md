@@ -10,6 +10,7 @@ thumbnail = "uploads/25-jorvik-thumbnail.jpg"
 title = "Day 25 - Skål!"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 A Viking theme for the 25th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG) with a mighty horn of Jorvik ale. Skål!

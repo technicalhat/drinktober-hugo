@@ -10,6 +10,7 @@ thumbnail = "uploads/19-kingfisher-thumbnail.jpg"
 title = "Day 19 - Kingfisher"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 19th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG) and it's curry night again. This week I'm having a Kingfisher with a lamb naga mirch from the local takeaway :)

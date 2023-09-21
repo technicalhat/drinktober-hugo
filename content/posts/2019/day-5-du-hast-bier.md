@@ -10,8 +10,9 @@ thumbnail = "uploads/5-Rammsteiner-thumbnail.jpg"
 title = "Day 5 - Du Hast Bier"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 > You've got a pussy!
 >
 > I have a dick-ah!

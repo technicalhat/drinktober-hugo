@@ -10,6 +10,7 @@ thumbnail = "uploads/7-lemmy-thumbnail.jpg"
 title = "Day 7 - This one's for Lemmy"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 Jack and coke for the 7th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?epa=HASHTAG). This one's dedicated to Lemmy \\m/

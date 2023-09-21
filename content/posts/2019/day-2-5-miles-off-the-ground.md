@@ -10,8 +10,9 @@ thumbnail = "uploads/2-bomber-thumbnail.jpg"
 title = "Day 2 - 5 miles off the ground"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 > When we shoot to kill
 >
 > And you know we always will

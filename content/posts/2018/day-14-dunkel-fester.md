@@ -10,6 +10,7 @@ thumbnail = "uploads/14-dunkel-fester-thumbnail.jpg"
 title = "Day 14 - Dunkel Fester"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 It's the 14th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG) and I've got a nice bottle of the excellently named Dunkel Fester :D

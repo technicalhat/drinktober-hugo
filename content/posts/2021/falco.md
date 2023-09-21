@@ -5,13 +5,14 @@ author = "Jonathan"
 beer_name = "Asmodeus"
 beer_photo = "uploads/asmodeus-beer.jpg"
 brewer = "Apex Brewing Co."
-date = 2021-10-26T16:30:00Z
-publishdate = 2021-10-26T16:30:00Z
+date = 2021-10-26T16:30:00.000Z
+publishdate = 2021-10-26T16:30:00.000Z
 thumbnail = "uploads/asmodeus-thumbnail.jpg"
 title = "Falco!"
 video = ""
-
+_template = "post"
 +++
+
 > _Asmodeus Asmodeus - Asmodeus!_
 >
 > 

@@ -10,6 +10,7 @@ thumbnail = "uploads/20-roadcrew-thumbnail.jpg"
 title = "Day 20 - Roadcrew"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 20th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?epa=HASHTAG), tonight I've got a pint of Roadcrew \\m/

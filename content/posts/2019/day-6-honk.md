@@ -10,6 +10,7 @@ thumbnail = "uploads/6-Mad-Goose-thumbnail.jpg"
 title = "Day 6 - HONK!"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 For the 6th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG), I thought I'd have a nice quite drink in the village. Unluckily for me, my plans were disrupted by the arrival of this Mad Goose!

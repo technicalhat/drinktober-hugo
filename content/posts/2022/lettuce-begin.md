@@ -5,13 +5,14 @@ author = "Heidi"
 beer_name = "Caesar Dressing"
 beer_photo = "uploads/image-2.jpg"
 brewer = ""
-date = 2022-10-04T21:00:00Z
-publishdate = 2022-10-04T21:00:00Z
+date = 2022-10-04T21:00:00.000Z
+publishdate = 2022-10-04T21:00:00.000Z
 thumbnail = ""
 title = "Lettuce begin"
 video = ""
-
+_template = "post"
 +++
+
 After a very busy, somewhat stressful and full of flu day, ordinarily this is prime circumstances for a nice chianti and a caramel cup.
 
 However, being a good girl observing #whatidowithoutthepub, I decided to cook a nice chicken and Caesar salad and have a vitamin water followed by a terrible film. Sadly I failed to take an appropriate photo so please enjoy the artists impression of me cooking. I also fixed the washing machine so overall sober me is a complete champ. 

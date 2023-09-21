@@ -10,6 +10,7 @@ thumbnail = "uploads/22-proper-job-thumbnail.jpg"
 title = "Day 22 - Proper Job"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 22nd of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG) - tonight I'm having a Proper Job :)

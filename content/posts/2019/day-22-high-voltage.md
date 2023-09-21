@@ -10,6 +10,7 @@ thumbnail = "uploads/22-Electric-Cafe-thumbnail.jpg"
 title = "Day 22 - High Voltage"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 It's a real shocker for the 22nd of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG), as we head to the Electric Cafe, probably for some electric sausage & chips.

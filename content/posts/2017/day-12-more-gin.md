@@ -10,6 +10,7 @@ thumbnail = "uploads/12-gin2-thumbnail.jpg"
 title = "Day 12 - More gin!"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 [#Drinktober](https://www.facebook.com/hashtag/drinktober?epa=HASHTAG) the 12th. Gin and pink grapefruit tonight - it's really rather nice

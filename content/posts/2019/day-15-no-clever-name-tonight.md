@@ -10,6 +10,7 @@ thumbnail = "uploads/15-Kristallweizen-thumbnail.jpg"
 title = "Day 15 - No clever name tonight"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 Crystal wheat beer for the 15th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG), with Hop Foundry's Kristallweizen

@@ -5,13 +5,14 @@ author = "Heidi"
 beer_name = "Heineken Zero"
 beer_photo = "uploads/9cf2ec36-e1af-4a31-b741-9d59e93d55df.jpeg"
 brewer = ""
-date = 2021-09-30T23:00:00Z
-publishdate = 2021-09-30T23:00:00Z
+date = 2021-09-30T23:00:00.000Z
+publishdate = 2021-09-30T23:00:00.000Z
 thumbnail = ""
 title = "From Zero to Hero (ish)!"
 video = ""
-
+_template = "post"
 +++
+
 Look at that _artistic_ photo! The colour, the style, the _Asthetic!_ 📸 
 
 Some of you might know this has been a bit of a mad year for me, certainly not one I was expecting, and one I have certainly hit the bar amongst other things pretty bloody hard. So this year will probably be my biggest challenge yet. 

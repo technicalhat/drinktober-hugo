@@ -5,13 +5,14 @@ author = "Jonathan"
 beer_name = "The Riddle of Steel"
 beer_photo = "uploads/steel_beer_300.jpg"
 brewer = "Pomona Island"
-date = 2022-10-10T15:00:00Z
-publishdate = 2022-10-10T15:00:00Z
+date = 2022-10-10T15:00:00.000Z
+publishdate = 2022-10-10T15:00:00.000Z
 thumbnail = "uploads/beerbarian_thumbnail.jpg"
 title = "Beerman! What is best in life?"
 video = ""
-
+_template = "post"
 +++
+
 > To crush your empties
 >
 > 

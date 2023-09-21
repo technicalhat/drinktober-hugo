@@ -5,13 +5,14 @@ author = "Heidi"
 beer_name = ""
 beer_photo = "uploads/e4ffbdb2-6a58-4832-a7c7-748f005c0124.jpeg"
 brewer = ""
-date = 2022-10-31T23:00:00Z
-publishdate = 2022-10-31T23:00:00Z
+date = 2022-10-31T23:00:00.000Z
+publishdate = 2022-10-31T23:00:00.000Z
 thumbnail = "uploads/88fd7b23-65f4-4511-87b9-f4b59711dbfb.jpeg"
 title = "We 👏 did 👏 it!!  👏 "
 video = ""
-
+_template = "post"
 +++
+
 Well bloody hell, we’ve only done it!!! Not only that, we’ve only bloody smashed our fundraising target!!!!! 🙌🏻🙌🏻  
   
 As ever but more so than ever this year, thank you so much to one of my dearest friends the incredible Johnny: the hard work, detail and stress you put into this challenge is unbelievable and I am so lucky to call you a best friend. You’re amazing 🍻 

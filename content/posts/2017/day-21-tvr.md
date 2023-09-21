@@ -10,6 +10,7 @@ thumbnail = "uploads/21-tvr-thumbnail.jpg"
 title = "Day 21 - TVR"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 Back on a more normal schedule for the 21st of [#Drinktober](https://www.facebook.com/hashtag/drinktober?epa=HASHTAG) and tonight is a total student classic, the TVR.

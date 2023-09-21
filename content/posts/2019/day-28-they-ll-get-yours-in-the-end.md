@@ -10,6 +10,7 @@ thumbnail = "uploads/28-gangly-ghoul-thumbnail.jpg"
 title = "Day 28 - They'll get yours in the end!"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 Spooky creatures of the night seem to be everywhere on the 28th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG) - I just caught this Gangly Ghoul sneaking a snack from the fridge!

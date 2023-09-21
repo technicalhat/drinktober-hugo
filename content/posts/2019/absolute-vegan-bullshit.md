@@ -10,8 +10,9 @@ thumbnail = ""
 title = "Absolute vegan bullshit"
 video = ""
 author = "Heidi"
- 
+_template = "post"
 +++
+
 Have you ever eaten a vegan sausage? I have now. It was awful. Had to spit it out, think it ruined my life. 
 
 Three more weeks of this. Vegan sausage bullshit. It’s making me sad.

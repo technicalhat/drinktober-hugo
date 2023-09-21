@@ -10,6 +10,7 @@ thumbnail = "uploads/18-brooklyn-thumbnail.jpg"
 title = "Day 18 - No sleep..."
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 18th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?epa=HASHTAG) - Brooklyn Lager tonight

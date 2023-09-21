@@ -5,13 +5,14 @@ author = "Jonathan"
 beer_name = "Anchor Porter"
 beer_photo = "uploads/05-anchor-beer.jpg"
 brewer = "Anchor Brewing Co"
-date = 2020-10-05T11:00:00Z
-publishdate = 2020-10-05T11:00:00Z
+date = 2020-10-05T11:00:00.000Z
+publishdate = 2020-10-05T11:00:00.000Z
 thumbnail = "uploads/05-anchor-thumb.jpg"
 title = "With a what now?"
 video = ""
-
+_template = "post"
 +++
+
 > Fuck! You! You're a fucking wanker! We're gonna punch you right in the balls!
 >
 > Fuck! You! With a fucking anchor! You're all cunts so fuck you all!

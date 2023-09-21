@@ -5,13 +5,14 @@ author = "Heidi"
 beer_name = "Furry"
 beer_photo = "uploads/23039cea-c2c2-4290-ae77-f58c36aac3d5.jpeg"
 brewer = ""
-date = 2022-10-03T19:00:00Z
-publishdate = 2022-10-03T19:00:00Z
+date = 2022-10-03T19:00:00.000Z
+publishdate = 2022-10-03T19:00:00.000Z
 thumbnail = ""
 title = "Just hear meowt"
 video = "uploads/trim-9bfe295f-425a-4402-8dc5-632311de3fd4.MOV"
-
+_template = "post"
 +++
+
 Day three and I’m sat it’s not Cat-utday still. Or at least Friday night when I could enjoy a sweet, sweet vino. 
 
 Today was a very busy day which involved much running about and not much time to miss the pub. However, now I’m home alone, this is prime drink o’clock. 

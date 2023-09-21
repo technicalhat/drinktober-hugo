@@ -10,6 +10,7 @@ thumbnail = "uploads/19-mead-garita-thumbnail.jpg"
 title = "Day 19 - Frankenstein creation"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 19th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?epa=HASHTAG) and I'm getting inventive tonight. I call this one the Mead-garita. Half margarita mix, half mead - it's actually pretty good :)

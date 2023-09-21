@@ -5,13 +5,14 @@ author = "Heidi"
 beer_name = "Coffee"
 beer_photo = ""
 brewer = ""
-date = 2022-10-14T18:00:00Z
-publishdate = 2022-10-14T18:00:00Z
+date = 2022-10-14T18:00:00.000Z
+publishdate = 2022-10-14T18:00:00.000Z
 thumbnail = ""
 title = "What kind of car takes you to a jedi?  A toyoda. "
 video = ""
-
+_template = "post"
 +++
+
 Now wait one minute…. Why does Johnny get to have both all the beers and all the dressing up fun?!! 
 
 Todays edition of #whatidowithoutthepub seemed a little boring once again, I’ve done lots of work and housing today but not many sober adventures aside from Asda pharmacy. So please witness this #drinktober Princess Leia special for your viewing pleasure. 

@@ -5,13 +5,14 @@ author = "Jonathan"
 beer_name = "The Floor is Guava"
 beer_photo = "uploads/guava_300_square.jpg"
 brewer = "Brew York"
-date = 2022-10-05T15:00:00Z
-publishdate = 2022-10-05T15:00:00Z
+date = 2022-10-05T15:00:00.000Z
+publishdate = 2022-10-05T15:00:00.000Z
 thumbnail = "uploads/guava_thumbnail.jpg"
 title = "You guava be kidding me"
 video = ""
-
+_template = "post"
 +++
+
 We're barely into the first week of Drinktober when disaster strikes. 
 
 I was planning to burn off the calories from all these beers in the gym, but somehow I've found myself trapped inside this insane game show. 

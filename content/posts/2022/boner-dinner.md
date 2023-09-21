@@ -5,13 +5,14 @@ author = "Jonathan"
 beer_name = "Them Bones"
 beer_photo = "uploads/them_bones_beer_300.jpg"
 brewer = "Neon Raptor"
-date = 2022-10-27T15:00:00Z
-publishdate = 2022-10-27T15:00:00Z
+date = 2022-10-27T15:00:00.000Z
+publishdate = 2022-10-27T15:00:00.000Z
 thumbnail = "uploads/them-bones_thumbnail.jpg"
 title = "Boner! Dinner!"
 video = ""
-
+_template = "post"
 +++
+
 | 🎶The knee bone's connected to the, leg bone  
 | 🎶The leg bone's connected to the... egg bone...  
 | 🎶The egg bone's connected to the... keg... bone?  

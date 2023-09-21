@@ -10,6 +10,7 @@ thumbnail = "uploads/24-Come-On-Pilgrim-thumbnail.jpg"
 title = "Day 24 - As long as you cleanup after"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 It's the 24th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?source=feed_text&epa=HASHTAG) - just one more week to go! Tonight's is another Loch Lomond beer - this one's Come on Pilgrim New England IPA.

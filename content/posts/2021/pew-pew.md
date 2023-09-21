@@ -5,13 +5,14 @@ author = "Jonathan"
 beer_name = "Wave after Wave"
 beer_photo = "uploads/wave-after-wave-beer.JPG"
 brewer = "Vocation"
-date = 2021-10-04T16:30:00Z
-publishdate = 2021-10-04T16:30:00Z
+date = 2021-10-04T16:30:00.000Z
+publishdate = 2021-10-04T16:30:00.000Z
 thumbnail = "uploads/wave-after-wave-thumbnail.JPG"
 title = "Pew! Pew!"
 video = ""
-
+_template = "post"
 +++
+
 I've been overrun by Space Invaders! 
 
 Luckily I've got my trusty laser rifle at hand but they just keep on coming, Wave After Wave.

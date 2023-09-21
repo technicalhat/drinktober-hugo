@@ -10,6 +10,7 @@ thumbnail = "uploads/10-margarita-thumbnail.jpg"
 title = "Day 10 - Tequila time!"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 It's the 10th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?epa=HASHTAG) and tonight I'm having a margarita

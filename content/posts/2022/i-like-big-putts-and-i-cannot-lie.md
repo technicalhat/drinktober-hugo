@@ -5,13 +5,14 @@ author = "Heidi"
 beer_name = "Hot Shot"
 beer_photo = "uploads/4723c959-a233-4a56-9a7e-9e0dd049d5c6.jpeg"
 brewer = ""
-date = 2022-10-02T19:00:00Z
-publishdate = 2022-10-02T19:00:00Z
+date = 2022-10-02T19:00:00.000Z
+publishdate = 2022-10-02T19:00:00.000Z
 thumbnail = ""
 title = "I like big putts and I cannot lie"
 video = ""
-
+_template = "post"
 +++
+
 I do enjoy a big putt, although this gives a different meaning to clubbing. 
 
 In today’s edition of #whatidowithoutthepub, I very much fancied some day drinking. Possibly left Over lesbian rage. However, it’s for charity innit so I decided to distract myself with my favourite competition sport, Mini Golf. 

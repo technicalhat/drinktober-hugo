@@ -10,6 +10,7 @@ thumbnail = "uploads/11-mead-thumbnail.jpg"
 title = "Day 11 - Onwards to Valhalla!"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 11th of [#Drinktober](https://www.facebook.com/hashtag/drinktober?epa=HASHTAG) and I've gone all Viking with a horn of mead \\m/

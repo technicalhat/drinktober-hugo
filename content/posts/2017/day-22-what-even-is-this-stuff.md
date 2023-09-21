@@ -10,8 +10,9 @@ thumbnail = "uploads/22-shot-thumbnail.jpg"
 title = "Day 22 - What even is this stuff?"
 video = ""
 author = "Jonathan"
-
+_template = "post"
 +++
+
 22nd of [#Drinktober](https://www.facebook.com/hashtag/drinktober?epa=HASHTAG), and we've reached the "any old shite that's in the house" stage ) This is from a box of pre-packaged "flavoured shots" - think this was the apple one.
 
 [**__**](https://www.facebook.com/photo.php?fbid=10155865369783140&set=p.10155865369783140&type=3&theater#)
