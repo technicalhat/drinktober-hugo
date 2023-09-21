@@ -9,7 +9,7 @@ jobs:
       TZ: Europe/London
       HUGO_BUILD_DIR: public
       TARGET_REPO: technicalhat/drinktober-web.git
-
+      HUGO_ENV: production
     steps:
 #      - run: apt-get update && apt-get install git
       - checkout
@@ -18,7 +18,7 @@ jobs:
                 name: Get current site
                 working_directory: ~/hugo
                 command: git clone -b master https://${GITHUB_TOKEN}@github.com/technicalhat/drinktober-web.git public
-      - run: HUGO_ENV=production hugo -v -d $HUGO_BUILD_DIR --buildDrafts
+      - run:  hugo -v -d $HUGO_BUILD_DIR --buildDrafts
       - deploy:
           name: Deploy to Github Pages
           working_directory: ~/hugo/public
