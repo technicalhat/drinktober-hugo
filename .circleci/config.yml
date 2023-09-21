@@ -6,6 +6,7 @@ jobs:
       - image: cibuilds/hugo:0.118.2
     working_directory: ~/hugo
     environment:
+      TZ: Europe/London
       HUGO_BUILD_DIR: public
       TARGET_REPO: technicalhat/drinktober-web.git
 
