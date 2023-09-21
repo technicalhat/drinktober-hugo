@@ -13,6 +13,8 @@ jobs:
     steps:
 #      - run: apt-get update && apt-get install git
       - checkout
+      - node/install-packages:
+          pkg-manager: npm
       - run: git submodule sync && git submodule update --init
       - run:
                 name: Get current site
