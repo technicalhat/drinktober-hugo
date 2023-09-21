@@ -14,7 +14,7 @@ export default defineConfig({
   client: { skip: true },
   build: {
     outputFolder: "admin",
-    publicFolder: "public",
+    publicFolder: "public", 
   },
   media: {
     tina: {
