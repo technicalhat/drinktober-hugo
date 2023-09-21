@@ -1,5 +1,7 @@
 #https://duyizhuo.com/post/hugo-with-github-pages/
-version: 2
+version: 2.1
+orbs:
+  node: circleci/node@5.1.0
 jobs:
   build:
     docker:
