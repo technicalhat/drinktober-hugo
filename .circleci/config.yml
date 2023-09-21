@@ -18,7 +18,7 @@ jobs:
                 name: Get current site
                 working_directory: ~/hugo
                 command: git clone -b master https://${GITHUB_TOKEN}@github.com/technicalhat/drinktober-web.git public
-      - run:  hugo -v -d $HUGO_BUILD_DIR --buildDrafts
+      - run:  npm run build
       - deploy:
           name: Deploy to Github Pages
           working_directory: ~/hugo/public
