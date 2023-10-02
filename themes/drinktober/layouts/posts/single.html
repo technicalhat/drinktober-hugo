@@ -23,7 +23,7 @@
                         {{ .Content }}
 
                         {{if .Params.antic_photo}}
-                        <a href="#" class="image"><img src="{{ .Params.antic_photo | absURL }}" /></a>
+                        <a href="{{ .Params.antic_photo | absURL }}" title="{{ .Params.beer_name}}" target="_blank" class="image"><img alt="{{ .Params.beer_name}}" src="{{ .Params.antic_photo | absURL }}" /></a>
                         {{end}}    
                         {{if .Params.video}}
 
@@ -40,8 +40,9 @@
 
                     <!-- Sidebar -->
                     <section class="box feature" id="beerinfo">
-                        <a href="{{.Permalink}}" class="image featured"><img src='{{ .Params.beer_photo | absURL }}' alt=""
-                            /></a>
+                        <a href="{{ .Params.beer_photo | absURL }}" title="{{ .Params.beer_name}}" target="_blank" class="image featured">
+                            <img src='{{ .Params.beer_photo | absURL }}' alt="{{ .Params.beer_name}}" />
+                        </a>
                         <header>
                             <dl class="row">
                                 <dt class="col-4">Date</dt>
