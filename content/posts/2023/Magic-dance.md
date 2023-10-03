@@ -11,3 +11,12 @@ antic_photo = "/uploads/voodoo_antic.jpg"
 thumbnail = "/uploads/voodoo_thumbnail.jpg"
 +++
 
+> You remind me of the beer\
+> What beer?\
+> The beer with the power\
+> What power?\
+> The power of voodoo!\
+> Who do?\
+> You do\
+> I do what?\
+> Remind me of the beer
