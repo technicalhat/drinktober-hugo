@@ -46,7 +46,7 @@
                         <header>
                             <dl class="row">
                                 <dt class="col-4">Date</dt>
-                                <dd class="col-8">{{.Date.Format "January"}} {{.Date.Day}}</dd>
+                                <dd class="col-8">{{.Date.Local.Format "January"}} {{.Date.Local.Day}}</dd>
                                 <dt class="col-4">Beer</dt>
                                 <dd class="col-8">{{ .Params.beer_name}}</dd>
                                 <dt class="col-4">ABV</dt>
