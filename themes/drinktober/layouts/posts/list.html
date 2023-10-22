@@ -13,7 +13,7 @@
         <div class="container">
             <div class="row">
                 
-                {{range where .CurrentSection.Pages "Section" "posts" }}
+                {{range where (where .CurrentSection.Pages "Section" "posts") "Params.hide_post" "!=" true }}
                 
                 <div class="col-4 col-12-medium">
 

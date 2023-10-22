@@ -61,5 +61,10 @@ export function postFields() {
       name: "video",
       label: "Video",
     },
+    {
+      type: "boolean",
+      name: "hide_post",
+      label: "Hide post in lists",
+    },
   ] as TinaField[];
 }
