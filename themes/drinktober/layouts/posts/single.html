@@ -71,8 +71,8 @@
                     <section class="more-beer">
                         <h3>More beer</h3>
                         <ul class="style2">
-                            {{ range first 5 (where .CurrentSection.Pages "Date" "< " .Date) }}
-                            <li><a href="{{ .Permalink }} ">{{.Date.Format "January "}} {{.Date.Day}} - {{ .Title  | markdownify }}
+                            {{ range first 5 (where (where .CurrentSection.Pages "Date" "< " .Date) "Params.hide_post" "!=" true ) }}
+                            <li><a href="{{ .Permalink }} ">{{.Date.Local.Format "January "}} {{.Date.Local.Day}} - {{ .Title  | markdownify }}
                                 {{ $thumbnail := cond (eq .Params.author "Jonathan") "/jonathan-face.jpg" "/heidi-face.jpg"}}
                                 {{ if (not (isset .Params "thumbnail")) | or (eq .Params.thumbnail "") }}
                                 <img src="{{$thumbnail}}" title="{{ .Title  | markdownify }}" />
