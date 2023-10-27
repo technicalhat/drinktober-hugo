@@ -2,7 +2,7 @@
 author = "Jonathan"
 title = "Don't dead open inside"
 date = 2023-10-28T23:00:00.000Z
-publishdate = 2023-10-28T23:00:00.000Z
+publishdate = 2023-10-26T23:00:00.000Z
 beer_name = "Dead storage"
 abv = "4.3%"
 brewer = "Heist"
