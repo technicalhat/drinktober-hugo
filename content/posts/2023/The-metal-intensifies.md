@@ -9,7 +9,7 @@ brewer = "Robinsons"
 beer_photo = "/uploads/trooper_dotd_bottle.jpg"
 antic_photo = "/uploads/dotd_antic.jpg"
 thumbnail = "/uploads/dotd_thumbnail.jpg"
-hide_post = true
+hide_post = false
 +++
 
 You wait all month for an Iron Maiden post and then two come along at once!
