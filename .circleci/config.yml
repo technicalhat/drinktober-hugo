@@ -25,7 +25,7 @@ jobs:
                 command: git clone -b master https://${GITHUB_TOKEN}@github.com/technicalhat/drinktober-web.git public
       - run:  npm run build
       - run: rm ~/hugo/public/admin/.gitignore
-      - deploy:
+      - run:
           name: Deploy to Github Pages
           working_directory: ~/hugo/public
           command: |
