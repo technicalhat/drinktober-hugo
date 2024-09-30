@@ -8,9 +8,9 @@ timeZone="Europe/London"
 [params]
     keywords = "drinktober, charity, sober october, alcohol, raising money, drink beer every day, soberhero, not so sober hero, being a jerk, cancer support, october, beer, drink all the beer, Macmillan Cancer Support"
     totalraised = 0
-    targettotal = 0
-    showProgress = false
-    donationsActive = false 
+    targettotal = 300
+    showProgress = true
+    donationsActive = true 
     donateLink = "https://www.gosober.org.uk/users/heidi-victoria-ireland"
     debug = false
     donateCTASingle = "Donate now!"
