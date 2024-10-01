@@ -1,7 +1,7 @@
 +++
-title = "Back to the Beercave"
-date = 2024-10-01T23:00:00.000Z
-publishdate = 2024-10-01T23:00:00.000Z
+title = "Welcome back for Drinktober 2024!"
+date = 2024-09-01T23:00:00.000Z
+publishdate = 2024-09-01T23:00:00.000Z
 layout= "list"
 _template="pages"
 +++
