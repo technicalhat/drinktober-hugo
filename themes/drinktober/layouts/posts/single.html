@@ -85,8 +85,7 @@
                             </li>
                             {{end}}
                         </ul>
-                        {{ $yearUrl = "/posts/" + .Date.Local.Format "2006" | absURL }}
-                        <a class="btn btn-primary btn-lg" href='{{$yearUrl}}'>All of {{.Date.Local.Format "2006"}}</a>
+                        <a class="btn btn-primary btn-lg" href='/posts/{{ .Date.Local.Format "2006"}}'>All of {{.Date.Local.Format "2006"}}</a>
                     </section>
 
                     </div>
