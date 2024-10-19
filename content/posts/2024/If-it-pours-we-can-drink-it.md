@@ -13,4 +13,4 @@ thumbnail = "/uploads/2024_19_gst_thumb_600.jpg"
 
 Welcome to the jungle! We've got guns and flames.
 
-And this beer, which will turn you into a Goddamn Sexual Tyrannosaurus. Just like me!
+And this beer, which will make you a Goddamn Sexual Tyrannosaurus. Just like me!
