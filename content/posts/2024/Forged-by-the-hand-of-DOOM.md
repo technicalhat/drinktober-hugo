@@ -11,6 +11,6 @@ antic_photo = "/uploads/2024_24_doom_forge_1350_1080.jpg"
 thumbnail = "/uploads/2024_24_doom_forge_thumb_600.jpg"
 +++
 
-Only the mightiest of blades are suitable to be wielded by the hand of DOOM! 
+Only the mightiest of blades are worthy to be wielded by the hand of DOOM!
 
 And the very best of them are forged by DOOM's own hand, here in the DOOM Forge!
