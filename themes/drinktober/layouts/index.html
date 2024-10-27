@@ -117,6 +117,38 @@
             </div>
 
             </section>
+		
+            <section class="year-row row">
+                <div class="col-12">
+                    <a href="/posts/2022"><h1>Drinktober 2021</h1></a>
+                </div>
+            {{range first 3 (where (where .Site.RegularPages "Section" "posts") "Date.Year" "==" 2021 )}}
+            
+            <div class="col-4 col-12-medium">
+
+                <!-- Box -->
+                    <section class="box feature">
+                        <a href="{{.Permalink}}" class="image featured"><img src='{{ .Params.thumbnail | absURL }}' alt="" /></a>
+                        <div class="inner">
+                                <a href="{{.Permalink}}"><header>
+                                <h2>{{.Date.Local.Format "January"}} {{.Date.Local.Day}} {{.Date.Local.Year}}</h2>
+                                <p>{{ .Title }}</p>
+                            </header></a>
+                        </div>
+                        {{if .Params.author}}
+                        {{ $thumbnail := cond (eq .Params.author "Jonathan") "/jonathan-face.jpg" "/heidi-face.jpg"}}
+                        <div class="feature_thumb"><img src="{{$thumbnail}}"/></div>
+                        {{end}}
+                    </section>
+
+            </div>
+            {{end}}
+            <div class="col-12">
+                <a class="btn btn-primary btn-lg" href="/posts/2021">all of Drinktober 2021</a>
+            </div>
+
+            </section>
+		
                 <section class="year-row row">
                     <div class="col-12">
                     <a href="/12beers/2020"><h1>12 beers of Christmas 2020</h1></a>
@@ -162,7 +194,7 @@
        {{range where .Sections "Section" "==" "posts"}}
             {{range .Sections}}
             {{$year := path.Base .File.Dir}}
-                {{if ne (path.Base .File.Dir) "2022"}}
+                {{if le (path.Base .File.Dir) "2020"}}
 
                 <section class="year-row row">
                         <div class="col-12">
