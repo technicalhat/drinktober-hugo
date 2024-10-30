@@ -25,7 +25,7 @@
     {{ $target := .Site.Params.targettotal }}
     {{ $pct := div (mul $total 100.0) $target }}
     <h1 class="total">
-        £{{$total}} raised of £{{ $target}} ({{$pct}}%)
+        £{{$total}} raised of £{{ $target}} ({{$pct| lang.FormatPercent 2}})
     </h1>
     <h3 class="raising-for">for <a class="heading-link" 
         href="https://www.gosober.org.uk/beneficiaries/macmillan">
