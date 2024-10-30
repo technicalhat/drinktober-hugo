@@ -13,7 +13,7 @@
                 </h1>
                 <div class="progress">
                     <div class="progress-bar" style="width: {{cond (le $pct 100.0) $pct 100}}%;">
-                        <div class="sr-only">{{$pct}}%</div>
+                        <div class="sr-only">{{$pct | lang.FormatPercent 2}}</div>
                     </div>
                 </div>
             </div>
