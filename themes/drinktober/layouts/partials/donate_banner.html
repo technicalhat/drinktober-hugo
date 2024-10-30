@@ -9,7 +9,7 @@
         <div class="row">
             <div class="col-12">
                 <h1 class="total">
-                £{{$total}} raised of £{{$target}} ({{$pct}}%)
+                £{{$total}} raised of £{{$target}} ({{$pct| lang.FormatPercent 2}})
                 </h1>
                 <div class="progress">
                     <div class="progress-bar" style="width: {{cond (le $pct 100.0) $pct 100}}%;">
