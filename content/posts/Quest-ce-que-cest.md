@@ -17,4 +17,4 @@ You'd better run run, run run run away!
 
 And that's a wrap for another awesome year! We're at 47% of our target so far.
 
-If you'd like to help bump those numbers up the donation page will still be live for a while so why not click the big pink button or head directly to [Heidi's donation page](https://www.gosober.org.uk/users/heidi-victoria-ireland)
+If you'd like to help bump those numbers up the donation page will still be live for a while so why not click the big pink button or head directly to [Heidi's donation page](https://www.gosober.org.uk/users/heidi-victoria-ireland) and throw a few quid in the pot!
