@@ -1,10 +1,11 @@
 baseURL = "https://drinktober.co.uk/"
-languageCode = "en-us"
+locale = "en-us"
 title = "Drinktober 2024"
 theme = "drinktober"
 RelativeURLs=true
 CanonifyURLs=true
 timeZone="Europe/London"
+enableEmoji = true
 [params]
     keywords = "drinktober, charity, sober october, alcohol, raising money, drink beer every day, soberhero, not so sober hero, being a jerk, cancer support, october, beer, drink all the beer, Macmillan Cancer Support"
     totalraised = 167.97

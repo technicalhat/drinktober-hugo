@@ -1,0 +1,109 @@
+
+{{define "main"}}
+    {{- partial "donate_banner.html" . -}}
+  
+			
+    <div id="main-wrapper">
+
+			<!-- Main -->
+            <div class="box container">
+                <div class="row gtr-200">
+                    <div class="col-12 imp-medium">
+
+                        <!-- Content -->
+                            <div id="content">
+                                <section class="last homepage-header">
+                                    {{.Content }} 
+                                    
+                                </section>
+                            </div>
+
+                    </div>
+                </div>
+            </div>
+    </div>
+    
+    <div id="features-wrapper">
+        <div class="container">
+            <!-- it would be nice to make this automatic, but realistically I can live with updating the template once or twice a year-->
+           
+            {{range first 3 (where (where (where .Site.RegularPages "Section" "posts") "Date.Year" "==" 2024 ) "Params.hide_post" "!=" true )}}
+            <section class="year-row row">
+                <article class="post">
+                    <header>
+                        {{if .Params.author}}
+                            {{ $thumbnail := cond (eq .Params.author "Jonathan") "/jonathan-face.jpg" "/heidi-face.jpg"}}
+                            <div class="author_thumb"><img src="{{$thumbnail}}"></div>
+                        {{end}}
+                        <div class="post_details">
+                            <h1>{{.Date.Local.Format "January"}} {{.Date.Local.Day}} - {{ .Title}}</h1>
+                            {{if .Params.beer_name}}
+                                <dl class="row">
+                                    <dt class="col-4">Beer</dt>
+                                    <dd class="col-8">{{ .Params.beer_name}}</dd>
+                                    <dt class="col-4">ABV</dt>
+                                    <dd class="col-8">{{ .Params.abv}}</dd>
+                                    <dt class="col-4">Brewed by</dt>
+                                    <dd class="col-8">{{ .Params.brewer}}</dd>
+                                </dl>
+                            {{end}}
+                        </div>
+                    </header>
+                    {{if or .Params.antic_photo .Params.beer_photo  .Params.video }}
+                    <section class="images row">
+                        {{if .Params.antic_photo}}
+                        <img  class="antic_photo col-8" alt="{{ .Params.beer_name}}" src="{{ .Params.antic_photo | absURL }}" /></a>
+                        {{end}}    
+                        {{if .Params.beer_photo}}
+                        <img class="beer_photo col-4" src='{{ .Params.beer_photo | absURL }}' alt="{{ .Params.beer_name}}" />
+                        {{end}}
+                    </section>
+                    {{end}}
+                    
+                        {{ .Content }}
+                </article>
+            </section>
+            {{ end }}
+
+            <hr/>
+
+            <section class="year-row row">
+            {{range first 3 (after 3 (where (where (where .Site.RegularPages "Section" "posts") "Date.Year" "==" 2024 ) "Params.hide_post" "!=" true ))}}
+            
+                <div class="col-4 col-12-medium">
+
+                    <!-- Box -->
+                        <section class="box feature">
+                            <a href="{{.Permalink}}" class="image featured"><img src='{{ .Params.thumbnail | absURL }}' alt="" /></a>
+                            <div class="inner">
+                                    <a href="{{.Permalink}}"><header>
+                                    <h2>{{.Date.Local.Format "January"}} {{.Date.Local.Day}}</h2>
+                                    <p>{{ .Title }}</p>
+                                </header></a>
+                            </div>
+                            {{if .Params.author}}
+                            {{ $thumbnail := cond (eq .Params.author "Jonathan") "/jonathan-face.jpg" "/heidi-face.jpg"}}
+                            <div class="feature_thumb"><img src="{{$thumbnail}}"/></div>
+                            {{end}}
+                        </section>
+
+                </div>
+            {{end}}
+            </section>
+            <hr/>
+
+           
+            
+            <section class="year-row row">
+                <div class="col-12">
+                    <a class="btn btn-primary btn-lg" href="/posts/2024">all of Drinktober 2026</a>
+                </div>
+            
+                <div class="col-12">
+                    <a href="/posts"><h1>Drinktober archives</h1></a>
+                </div>
+            </section>
+            
+        </div>
+    </div>
+{{end}}

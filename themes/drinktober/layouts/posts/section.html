@@ -1,6 +1,6 @@
 {{define "main"}}
 
-{{- partial "donate_banner.html" . -}}
+{{- /* partial "donate_banner.html" . */ -}}
 <div id="banner" class="box container">
     <div class="row">
         <div class="col-12">
@@ -15,6 +15,21 @@
                 
                 {{range where .CurrentSection.Pages "Section" "posts" }}
                 
+                <div class="col-4 col-12-medium">
+
+                    <!-- Box -->
+                        <section class="box feature">
+                            <a href="{{.Permalink}}" class="image featured"><img src='{{ .Params.thumbnail | absURL }}' alt="" /></a>
+                            <div class="inner">
+                                    <a href="{{.Permalink}}"><header>
+                                    <h2>{{ .Title }}!!</p>
+                                </header></a>
+                            </div>
+                        </section>
+
+                </div>
+                {{end}}
+                {{with .Site.GetPage "/12beers/2020"}}
                 <div class="col-4 col-12-medium">
 
                     <!-- Box -->

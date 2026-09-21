@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "tinacms dev -c \"hugo server -D --logLevel debug\"",
+    "dev": "tinacms dev -c \"hugo server -D --logLevel debug  --buildDrafts\"",
     "build" : "tinacms build && hugo -v -d public --buildDrafts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
