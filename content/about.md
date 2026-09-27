@@ -13,30 +13,18 @@ jonathan_text: 'Jonathan here, on the other hand, is a bit of a dick. So by way 
 '
 
 ---
-## Drinktober
+### The story so far...
 
-It’s all about raising money for a very good cause – [Macmillan Cancer Support.](https://www.gosober.org.uk)
+Way back in 2017 my friend Heidi decided she was going sober for October to raise money for Macmillan Cancer Support. In a higly on-brand flash of oppositional defiance I thought it would be funny to post a picture of myself having a different drink every day to her facebook profile. For "moral support", y'know?  
 
-Macmillan provide physical, financial and emotional support to people with cancer to help them live life as fully as possible. It’s a fantastic charity and the help and support means a lot to many people.
+It didn't take long (3 days to be exact) for me to decide it was more fun if I dressed up to match the theme of the drink, and by the 31st Drinkowe'en was born. This nonsense caught on with a small but loyal group of fans and Drinktober became an annual tradition of increasingly elaborate costume creations.  
 
-So, for the seventh year in a row, absolute leg-end superstar Heidi is going to pass on the prosecco, say nein to the wine and just giving up any and all alcohol for a gruelling 31 days. 
+### The great betrayal!
+  
+Fast forward to 2025 and shock, horror! Heidi shamelessly decided to put her own health and wellbeing ahead of my narcissistic attention seeking and stopped drinking for good! It seemed like cheating to have a teetotaller take on a sobriety challenge so Drinktober ended up taking a hiatus.  
 
-Also for the sixth year in a row, her mate Jonathan Scott is going to continue to be a jerk by drinking all the alcohol that Heidi is missing out on. Not only that, but he enjoys taking pictures and taunting her with it too! He goes all out to make everything as entertaining as possible so that everyone has a good laugh in the process and to help get the message out there to help raise money for a good cause.
+### So what's next?
 
-So, check back for daily antics, beer reviews, challenges and much for from your favourite Soberhero and Not-so-Soberhero.
+So now, for 2026, I was all set to start again with a brand new victim^W volunteer when the whole sober October project switched hands. Now being run by Alcohol Change, it seemed a bit of a dick move to associate my boozy nonsense with a charity aimed at supporting people with actual problems around alcohol.  
 
-## The 12 beers of Christmas
-
-Brand new for 2020, we're running a very festive special edition to raise money for [Pride in Hull](https://prideinhull.co.uk) - here's Heidi with a little about why they deserve your support.
-
-_Grab a cuppa, sit down and let’s get to know each other, shall we?_
-
-_Hello! If you’re reading this, you probably know who we are. And if you don’t… hello, wonderful to meet you!_
-
-_Pride in Hull is a registered charity, run by a small but perfectly formed committee of volunteers on a not-for-profit basis. Members of the team have been involved in Pride in the city since the very first event, which was (incredibly!) almost 20 years ago._
-
-_It’s been quite a journey._
-
-_The remit of our event is simple. We’re here to celebrate the LGBT+ community with our friends and allies. We’re here to celebrate diverse sexualities and genders. We’re here to uplift communities. We’re here to tell people that they do fit in here. And we do it with a great big massive parade, equal parts protest and party._
-
-_We’re one of the biggest events in Hull and… not to brag, we’re one of the biggest free Pride events in the whole country too._
+I still had all these costumes and props made though, so at least for 2026 Drinktober rides alone. Just me, 31 beers, and a whole bunch of silly outfits.
