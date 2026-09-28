@@ -27,7 +27,7 @@
         <div class="container">
             <!-- it would be nice to make this automatic, but realistically I can live with updating the template once or twice a year-->
            
-            {{range first 3 (where (where (where .Site.RegularPages "Section" "posts") "Date.Year" "==" 2024 ) "Params.hide_post" "!=" true )}}
+            {{range first 3 (where (where (where .Site.RegularPages "Section" "posts") "Date.Year" "==" 2026 ) "Params.hide_post" "!=" true )}}
             <section class="year-row row">
                 <article class="post">
                     <header>
@@ -68,7 +68,7 @@
             <hr/>
 
             <section class="year-row row">
-            {{range first 3 (after 3 (where (where (where .Site.RegularPages "Section" "posts") "Date.Year" "==" 2024 ) "Params.hide_post" "!=" true ))}}
+            {{range first 3 (after 3 (where (where (where .Site.RegularPages "Section" "posts") "Date.Year" "==" 2026 ) "Params.hide_post" "!=" true ))}}
             
                 <div class="col-4 col-12-medium">
 
@@ -96,7 +96,7 @@
             
             <section class="year-row row">
                 <div class="col-12">
-                    <a class="btn btn-primary btn-lg" href="/posts/2024">all of Drinktober 2026</a>
+                    <a class="btn btn-primary btn-lg" href="/posts/2026">all of Drinktober 2026</a>
                 </div>
             
                 <div class="col-12">
