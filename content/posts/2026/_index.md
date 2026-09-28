@@ -1,7 +1,7 @@
 +++
 title = "Drinktober 2026 - 31 days. 31 beers. One idiot. "
-date = 2026-09-28T23:00:00.000Z
-publishdate = 2026-09-28T23:00:00.000Z
+date = 2026-09-27T23:00:00.000Z
+publishdate = 2026-09-27T23:00:00.000Z
 layout= "list"
 _template="pages"
 +++
