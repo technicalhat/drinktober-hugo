@@ -24,19 +24,19 @@
     </div>
     
     <div id="features-wrapper">
-        <div class="container">
             <!-- it would be nice to make this automatic, but realistically I can live with updating the template once or twice a year-->
            
             {{range first 3 (where (where (where .Site.RegularPages "Section" "posts") "Date.Year" "==" 2026 ) "Params.hide_post" "!=" true )}}
-            <section class="year-row row">
-                <article class="post">
+            <div class="box container">
+                <section class="year-row row">
+                    <article class="post">
                     <header>
                         {{if .Params.author}}
                             {{ $thumbnail := cond (eq .Params.author "Jonathan") "/jonathan-face.jpg" "/heidi-face.jpg"}}
                             <div class="author_thumb"><img src="{{$thumbnail}}"></div>
                         {{end}}
                         <div class="post_details">
-                            <h1>{{.Date.Local.Format "January"}} {{.Date.Local.Day}} - {{ .Title}}</h1>
+                            <h1><a href="{{.Permalink}}">{{.Date.Local.Format "January"}} {{.Date.Local.Day}} - {{ .Title}}</a></h1>
                             {{if .Params.beer_name}}
                                 <dl class="row">
                                     <dt class="col-4">Beer</dt>
@@ -61,14 +61,17 @@
                     {{end}}
                     
                         {{ .Content }}
-                </article>
-            </section>
+                    </article>
+                </section>
+            </div>
             {{ end }}
 
-            <hr/>
 
+            {{$recent := first 3 (after 3 (where (where (where .Site.RegularPages "Section" "posts") "Date.Year" "==" 2026 ) "Params.hide_post" "!=" true ))}}
+            {{ if gt (len $recent) 0}}
+            <div class="box container">
             <section class="year-row row">
-            {{range first 3 (after 3 (where (where (where .Site.RegularPages "Section" "posts") "Date.Year" "==" 2026 ) "Params.hide_post" "!=" true ))}}
+            {{range $recent}}
             
                 <div class="col-4 col-12-medium">
 
@@ -89,11 +92,13 @@
 
                 </div>
             {{end}}
-            </section>
-            <hr/>
+            {{end}}
+            </section> </div>
+       
 
            
-            
+                        <div class="box container">
+
             <section class="year-row row">
                 <div class="col-12">
                     <a class="btn btn-primary btn-lg" href="/posts/2026">all of Drinktober 2026</a>
@@ -102,8 +107,7 @@
                 <div class="col-12">
                     <a href="/posts"><h1>Drinktober archives</h1></a>
                 </div>
-            </section>
+            </section></div>
             
-        </div>
     </div>
 {{end}}
