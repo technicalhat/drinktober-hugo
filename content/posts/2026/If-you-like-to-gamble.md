@@ -11,6 +11,6 @@ antic_photo = "/uploads/dancing_with_the_devil.jpg"
 thumbnail = "/uploads/dancing_with_the_devil_thumbnail.jpg"
 +++
 
-Piercing the veil today as we take a look at what’s going on on Other Side…
+Piercing the veil today as we take a look at what’s happening on the Other Side…
 
 And it’s Lemmy! In his short-shorts! Dancing with the Devil!
