@@ -12,8 +12,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@tinacms/cli": "^1.6.11",
-    "tinacms": "2.4.0"
+    "@tinacms/cli": "^4.0.4",
+    "tinacms": "3.15.0"
   },
   "allowScripts": {
     "better-sqlite3": true,
