@@ -11,4 +11,4 @@ antic_photo = "/uploads/full_moon_harvest.jpg"
 thumbnail = "/uploads/full_moon_harvest_thumbnail.jpg"
 +++
 
-Darkness falls over the fields as the Pumpkin Reaper sets to work, gathering the Full Moon Harvest
+Darkness falls over the fields as the Pumpkin Reaper sets to work, gathering the Full Moon Harvest!
