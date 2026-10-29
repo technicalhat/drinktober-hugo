@@ -16,7 +16,7 @@
     "tinacms": "2.4.0"
   },
   "allowScripts": {
-    "better-sqlite3@11.5.0": true,
-    "esbuild@0.18.20": true
+    "better-sqlite3": true,
+    "esbuild": true
   }
 }
