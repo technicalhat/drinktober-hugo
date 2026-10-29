@@ -8,7 +8,7 @@ brewer = ""
 date = 2022-10-14T18:00:00.000Z
 publishdate = 2022-10-14T18:00:00.000Z
 thumbnail = ""
-title = "What kind of car takes you to a jedi?  A toyoda. "
+title = "What kind of car takes you to a jedi?  A toyoda"
 video = ""
 _template = "post"
 +++

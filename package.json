@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "tinacms dev -c \"hugo server -D --logLevel debug  --buildDrafts\"",
-    "build": "tinacms build && hugo -v -d public --buildDrafts",
+    "build": "tinacms build && hugo --logLevel debug -d public --buildDrafts",
+    "buildLocal": "tinacms build && hugo --logLevel debug -d ../drinktober-web --buildDrafts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
